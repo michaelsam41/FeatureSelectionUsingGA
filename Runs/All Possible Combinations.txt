@@ -1,0 +1,11 @@
+All Possible Combinations:
+| # | Crossover    | Mutation         | Selection      |
+| - | ------------ | ---------------- | -------------- |
+| 1 | Uniform      | Bit-flip         | Tournament     |
+| 2 | Uniform      | Bit-flip         | Roulette wheel |
+| 3 | Uniform      | Random resetting | Tournament     |
+| 4 | Uniform      | Random resetting | Roulette wheel |
+| 5 | Single-point | Bit-flip         | Tournament     |
+| 6 | Single-point | Bit-flip         | Roulette wheel |
+| 7 | Single-point | Random resetting | Tournament     |
+| 8 | Single-point | Random resetting | Roulette wheel |

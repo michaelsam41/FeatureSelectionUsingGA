@@ -1,0 +1,1919 @@
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+Run:  1
+Random seed: 42
+Generation 1: Best Fitness = 7289.5845, Mutation Rate = 0.240000, Features Selected: 462 out of 1000
+Generation 2: Best Fitness = 7289.5845, Mutation Rate = 0.232907, Features Selected: 462 out of 1000
+Generation 3: Best Fitness = 7289.5845, Mutation Rate = 0.226023, Features Selected: 462 out of 1000
+Generation 4: Best Fitness = 7289.5845, Mutation Rate = 0.219343, Features Selected: 462 out of 1000
+Generation 5: Best Fitness = 7289.5845, Mutation Rate = 0.212861, Features Selected: 462 out of 1000
+Generation 6: Best Fitness = 7332.2111, Mutation Rate = 0.206570, Features Selected: 455 out of 1000
+Generation 7: Best Fitness = 7342.2111, Mutation Rate = 0.200465, Features Selected: 453 out of 1000
+Generation 8: Best Fitness = 7343.2067, Mutation Rate = 0.194540, Features Selected: 448 out of 1000
+Generation 9: Best Fitness = 7343.2067, Mutation Rate = 0.188791, Features Selected: 448 out of 1000
+Generation 10: Best Fitness = 7363.6069, Mutation Rate = 0.183211, Features Selected: 452 out of 1000
+Generation 11: Best Fitness = 7363.6069, Mutation Rate = 0.177796, Features Selected: 452 out of 1000
+Generation 12: Best Fitness = 7401.6327, Mutation Rate = 0.172542, Features Selected: 433 out of 1000
+Generation 13: Best Fitness = 7430.7697, Mutation Rate = 0.167442, Features Selected: 437 out of 1000
+Generation 14: Best Fitness = 7430.7697, Mutation Rate = 0.162494, Features Selected: 437 out of 1000
+Generation 15: Best Fitness = 7430.7697, Mutation Rate = 0.157691, Features Selected: 437 out of 1000
+Generation 16: Best Fitness = 7437.2111, Mutation Rate = 0.153031, Features Selected: 434 out of 1000
+Generation 17: Best Fitness = 7437.2111, Mutation Rate = 0.148508, Features Selected: 434 out of 1000
+Generation 18: Best Fitness = 7437.2111, Mutation Rate = 0.144119, Features Selected: 434 out of 1000
+Generation 19: Best Fitness = 7437.2111, Mutation Rate = 0.139860, Features Selected: 434 out of 1000
+Generation 20: Best Fitness = 7437.2111, Mutation Rate = 0.135726, Features Selected: 434 out of 1000
+Generation 21: Best Fitness = 7437.2111, Mutation Rate = 0.131715, Features Selected: 434 out of 1000
+Generation 22: Best Fitness = 7467.2111, Mutation Rate = 0.127822, Features Selected: 428 out of 1000
+Generation 23: Best Fitness = 7467.2111, Mutation Rate = 0.124044, Features Selected: 428 out of 1000
+Generation 24: Best Fitness = 7467.2111, Mutation Rate = 0.120378, Features Selected: 428 out of 1000
+Generation 25: Best Fitness = 7467.2111, Mutation Rate = 0.116821, Features Selected: 428 out of 1000
+Generation 26: Best Fitness = 7467.2111, Mutation Rate = 0.113368, Features Selected: 428 out of 1000
+Generation 27: Best Fitness = 7486.3766, Mutation Rate = 0.110017, Features Selected: 429 out of 1000
+Generation 28: Best Fitness = 7488.6069, Mutation Rate = 0.106766, Features Selected: 427 out of 1000
+Generation 29: Best Fitness = 7488.6069, Mutation Rate = 0.103611, Features Selected: 427 out of 1000
+Generation 30: Best Fitness = 7515.7060, Mutation Rate = 0.100548, Features Selected: 428 out of 1000
+Generation 31: Best Fitness = 7515.7060, Mutation Rate = 0.097577, Features Selected: 428 out of 1000
+Generation 32: Best Fitness = 7515.7060, Mutation Rate = 0.094693, Features Selected: 428 out of 1000
+Generation 33: Best Fitness = 7515.7060, Mutation Rate = 0.091894, Features Selected: 428 out of 1000
+Generation 34: Best Fitness = 7517.7895, Mutation Rate = 0.089178, Features Selected: 426 out of 1000
+Generation 35: Best Fitness = 7517.7895, Mutation Rate = 0.086543, Features Selected: 426 out of 1000
+Generation 36: Best Fitness = 7517.7895, Mutation Rate = 0.083985, Features Selected: 426 out of 1000
+Generation 37: Best Fitness = 7517.7895, Mutation Rate = 0.081503, Features Selected: 426 out of 1000
+Generation 38: Best Fitness = 7542.1353, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 39: Best Fitness = 7542.1353, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 40: Best Fitness = 7542.1353, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 41: Best Fitness = 7551.3766, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 42: Best Fitness = 7551.3766, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 43: Best Fitness = 7551.3766, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 44: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 45: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 46: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 47: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 48: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 49: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 50: Best Fitness = 7582.8941, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 51: Best Fitness = 7582.8941, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 52: Best Fitness = 7582.8941, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 53: Best Fitness = 7582.8941, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 54: Best Fitness = 7582.8941, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 55: Best Fitness = 7582.8941, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 56: Best Fitness = 7582.8941, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 57: Best Fitness = 7582.8941, Mutation Rate = 0.240000, Features Selected: 426 out of 1000
+Generation 58: Best Fitness = 7582.8941, Mutation Rate = 0.220000, Features Selected: 426 out of 1000
+Generation 59: Best Fitness = 7589.0071, Mutation Rate = 0.200000, Features Selected: 415 out of 1000
+Generation 60: Best Fitness = 7589.0071, Mutation Rate = 0.200000, Features Selected: 415 out of 1000
+Generation 61: Best Fitness = 7594.8086, Mutation Rate = 0.180000, Features Selected: 409 out of 1000
+Generation 62: Best Fitness = 7595.7697, Mutation Rate = 0.180000, Features Selected: 404 out of 1000
+Generation 63: Best Fitness = 7595.7697, Mutation Rate = 0.180000, Features Selected: 404 out of 1000
+Generation 64: Best Fitness = 7595.7697, Mutation Rate = 0.160000, Features Selected: 404 out of 1000
+Generation 65: Best Fitness = 7595.7697, Mutation Rate = 0.140000, Features Selected: 404 out of 1000
+Generation 66: Best Fitness = 7620.0327, Mutation Rate = 0.120000, Features Selected: 412 out of 1000
+Generation 67: Best Fitness = 7642.8941, Mutation Rate = 0.120000, Features Selected: 414 out of 1000
+Generation 68: Best Fitness = 7642.8941, Mutation Rate = 0.120000, Features Selected: 414 out of 1000
+Generation 69: Best Fitness = 7642.8941, Mutation Rate = 0.100000, Features Selected: 414 out of 1000
+Generation 70: Best Fitness = 7642.8941, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 71: Best Fitness = 7642.8941, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 72: Best Fitness = 7642.8941, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 73: Best Fitness = 7642.8941, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 74: Best Fitness = 7642.8941, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 75: Best Fitness = 7642.8941, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 76: Best Fitness = 7642.8941, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 77: Best Fitness = 7648.3679, Mutation Rate = 0.240000, Features Selected: 408 out of 1000
+Generation 78: Best Fitness = 7681.6473, Mutation Rate = 0.240000, Features Selected: 403 out of 1000
+Generation 79: Best Fitness = 7681.6473, Mutation Rate = 0.240000, Features Selected: 403 out of 1000
+Generation 80: Best Fitness = 7681.6473, Mutation Rate = 0.220000, Features Selected: 403 out of 1000
+Generation 81: Best Fitness = 7681.6473, Mutation Rate = 0.200000, Features Selected: 403 out of 1000
+Generation 82: Best Fitness = 7681.6473, Mutation Rate = 0.180000, Features Selected: 403 out of 1000
+Generation 83: Best Fitness = 7681.6473, Mutation Rate = 0.160000, Features Selected: 403 out of 1000
+Generation 84: Best Fitness = 7681.6473, Mutation Rate = 0.140000, Features Selected: 403 out of 1000
+Generation 85: Best Fitness = 7681.6473, Mutation Rate = 0.120000, Features Selected: 403 out of 1000
+Generation 86: Best Fitness = 7681.6473, Mutation Rate = 0.100000, Features Selected: 403 out of 1000
+Generation 87: Best Fitness = 7681.6473, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 88: Best Fitness = 7683.3679, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 89: Best Fitness = 7683.3679, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 90: Best Fitness = 7683.3679, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 91: Best Fitness = 7692.8941, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 92: Best Fitness = 7692.8941, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 93: Best Fitness = 7692.8941, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 94: Best Fitness = 7692.8941, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 95: Best Fitness = 7692.8941, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 96: Best Fitness = 7692.8941, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 97: Best Fitness = 7692.8941, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 98: Best Fitness = 7692.8941, Mutation Rate = 0.240000, Features Selected: 404 out of 1000
+Generation 99: Best Fitness = 7704.4073, Mutation Rate = 0.220000, Features Selected: 400 out of 1000
+Generation 100: Best Fitness = 7704.4073, Mutation Rate = 0.220000, Features Selected: 400 out of 1000
+Generation 101: Best Fitness = 7704.4073, Mutation Rate = 0.200000, Features Selected: 400 out of 1000
+Generation 102: Best Fitness = 7704.4073, Mutation Rate = 0.180000, Features Selected: 400 out of 1000
+Generation 103: Best Fitness = 7704.4073, Mutation Rate = 0.160000, Features Selected: 400 out of 1000
+Generation 104: Best Fitness = 7704.4073, Mutation Rate = 0.140000, Features Selected: 400 out of 1000
+Generation 105: Best Fitness = 7712.8941, Mutation Rate = 0.120000, Features Selected: 400 out of 1000
+Generation 106: Best Fitness = 7712.8941, Mutation Rate = 0.120000, Features Selected: 400 out of 1000
+Generation 107: Best Fitness = 7712.8941, Mutation Rate = 0.100000, Features Selected: 400 out of 1000
+Generation 108: Best Fitness = 7712.8941, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 109: Best Fitness = 7713.9464, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 110: Best Fitness = 7713.9464, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 111: Best Fitness = 7713.9464, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 112: Best Fitness = 7713.9464, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 113: Best Fitness = 7713.9464, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 114: Best Fitness = 7717.8941, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 115: Best Fitness = 7717.8941, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 116: Best Fitness = 7717.8941, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 117: Best Fitness = 7717.8941, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 118: Best Fitness = 7717.8941, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 119: Best Fitness = 7743.9464, Mutation Rate = 0.080000, Features Selected: 397 out of 1000
+Generation 120: Best Fitness = 7743.9464, Mutation Rate = 0.080000, Features Selected: 397 out of 1000
+Generation 121: Best Fitness = 7743.9464, Mutation Rate = 0.080000, Features Selected: 397 out of 1000
+Generation 122: Best Fitness = 7743.9464, Mutation Rate = 0.080000, Features Selected: 397 out of 1000
+Generation 123: Best Fitness = 7753.9464, Mutation Rate = 0.080000, Features Selected: 395 out of 1000
+Generation 124: Best Fitness = 7753.9464, Mutation Rate = 0.080000, Features Selected: 395 out of 1000
+Generation 125: Best Fitness = 7753.9464, Mutation Rate = 0.080000, Features Selected: 395 out of 1000
+
+----- Final Report -----
+Best Fitness: 7753.9464
+Best individual (bit string): [1 1 0 0 0 1 0 1 1 0 0 0 1 0 1 0 1 0 1 0 1 0 0 0 0 1 0 1 0 0 0 0 1 1 0 1 1
+ 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0
+ 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 1 0 1 0 0 0 0 1 0 1 1 1 1 0 0
+ 0 1 0 1 0 0 1 0 0 1 0 0 1 0 1 1 0 0 1 0 0 1 0 1 1 1 1 1 1 0 0 1 0 0 1 1 1
+ 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 1 0 1 0 1 0 0 1 0 1 0 0 0 1 1 0 0 0
+ 1 1 0 0 1 1 1 1 0 1 1 0 1 1 1 1 0 1 1 0 0 1 0 1 1 0 1 1 0 1 0 1 0 1 1 0 0
+ 1 0 0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0
+ 0 1 1 0 1 1 1 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 1 0
+ 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 0
+ 1 0 0 1 1 0 1 0 0 1 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0
+ 0 0 1 1 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0
+ 1 1 1 1 1 0 0 0 1 1 1 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0
+ 1 1 0 0 1 0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 1 0 0 0
+ 0 1 1 0 1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0
+ 1 1 1 1 1 1 1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 1
+ 0 1 0 0 1 0 1 0 1 0 0 0 1 0 1 1 0 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0
+ 0 0 0 1 1 0 0 1 1 1 0 1 0 0 1 1 1 1 0 0 0 0 1 1 0 0 1 0 0 1 1 0 0 0 0 1 1
+ 1 0 1 0 1 0 1 0 0 0 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1
+ 0 0 1 0 1 1 0 0 1 0 1 1 0 1 1 0 1 1 0 0 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 1 1
+ 0 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 1 0 1 1 0 1 0 0 0 1 1 1 0 0 0 1 0 0 1 1
+ 1 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 1 1 1 1 0 0 0
+ 1 0 1 0 0 0 0 1 1 1 0 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0
+ 0 1 1 1 0 0 0 0 0 1 1 1 0 1 1 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 1 0 1 1 0 0
+ 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+ 0 1 1 0 1 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 0 0 1 1 1 0 0 0 0 0 0 1 1 1 1 0
+ 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0
+ 0 1 1 0 0 0 1 1 1 0 1 1 1 1 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0 1 0 0 1 1 1 0
+ 1]
+Features selected (indices): [  0   1   5   7   8  12  14  16  18  20  25  27  32  33  35  36  39  40
+  51  56  58  62  68  70  71  72  74  76  87  90  91  95  96  98 103 105
+ 106 107 108 112 114 117 120 123 125 126 129 132 134 135 136 137 138 139
+ 142 145 146 147 158 160 164 167 169 171 174 176 180 181 185 186 189 190
+ 191 192 194 195 197 198 199 200 202 203 206 208 209 211 212 214 216 218
+ 219 222 227 229 233 235 241 243 250 253 257 260 261 263 264 265 271 272
+ 274 276 277 281 283 284 293 294 300 301 302 310 312 317 320 321 324 326
+ 327 329 333 336 337 339 342 343 344 347 350 354 356 362 367 372 373 379
+ 380 381 384 389 391 395 396 403 404 407 408 409 410 411 415 416 417 419
+ 424 426 428 437 438 441 444 445 448 450 453 454 457 458 467 468 471 473
+ 475 476 477 482 483 485 487 490 491 493 494 505 506 507 509 512 518 519
+ 520 521 522 523 524 525 526 529 533 534 539 541 543 544 545 546 547 554
+ 556 559 561 563 567 569 570 572 573 575 577 580 588 589 595 596 599 600
+ 601 603 606 607 608 609 614 615 618 621 622 627 628 629 631 633 635 639
+ 641 644 646 647 649 650 654 659 665 668 670 671 674 676 677 679 680 682
+ 683 686 688 689 690 692 693 698 701 702 707 709 710 712 715 720 722 723
+ 725 729 730 731 735 738 739 740 745 746 748 749 754 761 762 766 770 771
+ 772 773 777 779 784 785 786 788 794 795 798 800 802 804 810 815 816 817
+ 823 824 825 827 828 830 836 839 842 843 845 847 848 852 853 854 856 859
+ 866 867 870 871 880 886 889 890 892 893 895 897 899 901 903 905 907 911
+ 912 913 920 921 922 923 932 934 937 940 942 945 951 952 953 954 963 964
+ 968 969 970 972 973 974 975 980 986 988 989 990 992 995 996 997 999]
+Number of features selected: 395 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  2
+Random seed: 43
+Generation 1: Best Fitness = 7162.8065, Mutation Rate = 0.240000, Features Selected: 476 out of 1000
+Generation 2: Best Fitness = 7187.0095, Mutation Rate = 0.232907, Features Selected: 473 out of 1000
+Generation 3: Best Fitness = 7200.5282, Mutation Rate = 0.226023, Features Selected: 472 out of 1000
+Generation 4: Best Fitness = 7200.5282, Mutation Rate = 0.219343, Features Selected: 472 out of 1000
+Generation 5: Best Fitness = 7373.6069, Mutation Rate = 0.212861, Features Selected: 450 out of 1000
+Generation 6: Best Fitness = 7373.6069, Mutation Rate = 0.206570, Features Selected: 450 out of 1000
+Generation 7: Best Fitness = 7373.6069, Mutation Rate = 0.200465, Features Selected: 450 out of 1000
+Generation 8: Best Fitness = 7373.6069, Mutation Rate = 0.194540, Features Selected: 450 out of 1000
+Generation 9: Best Fitness = 7373.6069, Mutation Rate = 0.188791, Features Selected: 450 out of 1000
+Generation 10: Best Fitness = 7373.6069, Mutation Rate = 0.183211, Features Selected: 450 out of 1000
+Generation 11: Best Fitness = 7373.6069, Mutation Rate = 0.177796, Features Selected: 450 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 12: Best Fitness = 7373.6069, Mutation Rate = 0.240000, Features Selected: 450 out of 1000
+Generation 13: Best Fitness = 7373.6069, Mutation Rate = 0.220000, Features Selected: 450 out of 1000
+Generation 14: Best Fitness = 7373.6069, Mutation Rate = 0.200000, Features Selected: 450 out of 1000
+Generation 15: Best Fitness = 7373.6069, Mutation Rate = 0.180000, Features Selected: 450 out of 1000
+Generation 16: Best Fitness = 7373.6069, Mutation Rate = 0.160000, Features Selected: 450 out of 1000
+Generation 17: Best Fitness = 7373.6069, Mutation Rate = 0.140000, Features Selected: 450 out of 1000
+Generation 18: Best Fitness = 7415.7196, Mutation Rate = 0.120000, Features Selected: 432 out of 1000
+Generation 19: Best Fitness = 7415.7196, Mutation Rate = 0.120000, Features Selected: 432 out of 1000
+Generation 20: Best Fitness = 7415.7196, Mutation Rate = 0.100000, Features Selected: 432 out of 1000
+Generation 21: Best Fitness = 7415.7196, Mutation Rate = 0.080000, Features Selected: 432 out of 1000
+Generation 22: Best Fitness = 7415.7196, Mutation Rate = 0.127822, Features Selected: 432 out of 1000
+Generation 23: Best Fitness = 7440.7697, Mutation Rate = 0.124044, Features Selected: 435 out of 1000
+Generation 24: Best Fitness = 7440.7697, Mutation Rate = 0.120378, Features Selected: 435 out of 1000
+Generation 25: Best Fitness = 7440.7697, Mutation Rate = 0.116821, Features Selected: 435 out of 1000
+Generation 26: Best Fitness = 7458.2067, Mutation Rate = 0.113368, Features Selected: 425 out of 1000
+Generation 27: Best Fitness = 7458.2067, Mutation Rate = 0.110017, Features Selected: 425 out of 1000
+Generation 28: Best Fitness = 7458.2067, Mutation Rate = 0.106766, Features Selected: 425 out of 1000
+Generation 29: Best Fitness = 7458.2067, Mutation Rate = 0.103611, Features Selected: 425 out of 1000
+Generation 30: Best Fitness = 7458.2067, Mutation Rate = 0.100548, Features Selected: 425 out of 1000
+Generation 31: Best Fitness = 7458.2067, Mutation Rate = 0.097577, Features Selected: 425 out of 1000
+Generation 32: Best Fitness = 7489.8086, Mutation Rate = 0.094693, Features Selected: 430 out of 1000
+Generation 33: Best Fitness = 7504.5845, Mutation Rate = 0.091894, Features Selected: 419 out of 1000
+Generation 34: Best Fitness = 7504.5845, Mutation Rate = 0.089178, Features Selected: 419 out of 1000
+Generation 35: Best Fitness = 7504.5845, Mutation Rate = 0.086543, Features Selected: 419 out of 1000
+Generation 36: Best Fitness = 7504.5845, Mutation Rate = 0.083985, Features Selected: 419 out of 1000
+Generation 37: Best Fitness = 7522.2111, Mutation Rate = 0.081503, Features Selected: 417 out of 1000
+Generation 38: Best Fitness = 7522.2111, Mutation Rate = 0.080000, Features Selected: 417 out of 1000
+Generation 39: Best Fitness = 7522.2111, Mutation Rate = 0.080000, Features Selected: 417 out of 1000
+Generation 40: Best Fitness = 7533.6069, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 41: Best Fitness = 7533.6069, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 42: Best Fitness = 7544.7647, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 43: Best Fitness = 7559.8086, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 44: Best Fitness = 7559.8086, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 45: Best Fitness = 7559.8086, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 46: Best Fitness = 7562.1353, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 47: Best Fitness = 7562.1353, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 48: Best Fitness = 7562.1353, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 49: Best Fitness = 7562.1353, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 50: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 51: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 52: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 53: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 54: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 55: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 56: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 57: Best Fitness = 7638.3679, Mutation Rate = 0.240000, Features Selected: 410 out of 1000
+Generation 58: Best Fitness = 7638.3679, Mutation Rate = 0.220000, Features Selected: 410 out of 1000
+Generation 59: Best Fitness = 7638.3679, Mutation Rate = 0.200000, Features Selected: 410 out of 1000
+Generation 60: Best Fitness = 7638.3679, Mutation Rate = 0.180000, Features Selected: 410 out of 1000
+Generation 61: Best Fitness = 7638.3679, Mutation Rate = 0.160000, Features Selected: 410 out of 1000
+Generation 62: Best Fitness = 7647.1353, Mutation Rate = 0.140000, Features Selected: 405 out of 1000
+Generation 63: Best Fitness = 7647.1353, Mutation Rate = 0.140000, Features Selected: 405 out of 1000
+Generation 64: Best Fitness = 7647.1353, Mutation Rate = 0.120000, Features Selected: 405 out of 1000
+Generation 65: Best Fitness = 7652.1353, Mutation Rate = 0.100000, Features Selected: 404 out of 1000
+Generation 66: Best Fitness = 7652.1353, Mutation Rate = 0.100000, Features Selected: 404 out of 1000
+Generation 67: Best Fitness = 7652.1353, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 68: Best Fitness = 7652.1353, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 69: Best Fitness = 7652.1353, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 70: Best Fitness = 7652.1353, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 71: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 72: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 73: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 74: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 75: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 76: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 77: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 78: Best Fitness = 7658.3679, Mutation Rate = 0.240000, Features Selected: 406 out of 1000
+Generation 79: Best Fitness = 7658.3679, Mutation Rate = 0.220000, Features Selected: 406 out of 1000
+Generation 80: Best Fitness = 7658.3679, Mutation Rate = 0.200000, Features Selected: 406 out of 1000
+Generation 81: Best Fitness = 7658.3679, Mutation Rate = 0.180000, Features Selected: 406 out of 1000
+Generation 82: Best Fitness = 7663.3679, Mutation Rate = 0.160000, Features Selected: 405 out of 1000
+Generation 83: Best Fitness = 7663.3679, Mutation Rate = 0.160000, Features Selected: 405 out of 1000
+Generation 84: Best Fitness = 7663.3679, Mutation Rate = 0.140000, Features Selected: 405 out of 1000
+Generation 85: Best Fitness = 7663.3679, Mutation Rate = 0.120000, Features Selected: 405 out of 1000
+Generation 86: Best Fitness = 7663.3679, Mutation Rate = 0.100000, Features Selected: 405 out of 1000
+Generation 87: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 88: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 89: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 90: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 91: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 92: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 93: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 94: Best Fitness = 7663.3679, Mutation Rate = 0.240000, Features Selected: 405 out of 1000
+Generation 95: Best Fitness = 7663.3679, Mutation Rate = 0.220000, Features Selected: 405 out of 1000
+Generation 96: Best Fitness = 7663.3679, Mutation Rate = 0.200000, Features Selected: 405 out of 1000
+Generation 97: Best Fitness = 7663.3679, Mutation Rate = 0.180000, Features Selected: 405 out of 1000
+Generation 98: Best Fitness = 7663.3679, Mutation Rate = 0.160000, Features Selected: 405 out of 1000
+Generation 99: Best Fitness = 7663.3679, Mutation Rate = 0.140000, Features Selected: 405 out of 1000
+Generation 100: Best Fitness = 7663.3679, Mutation Rate = 0.120000, Features Selected: 405 out of 1000
+Generation 101: Best Fitness = 7663.3679, Mutation Rate = 0.100000, Features Selected: 405 out of 1000
+Generation 102: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 103: Best Fitness = 7663.3679, Mutation Rate = 0.240000, Features Selected: 405 out of 1000
+Generation 104: Best Fitness = 7663.3679, Mutation Rate = 0.220000, Features Selected: 405 out of 1000
+Generation 105: Best Fitness = 7663.3679, Mutation Rate = 0.200000, Features Selected: 405 out of 1000
+Generation 106: Best Fitness = 7663.3679, Mutation Rate = 0.180000, Features Selected: 405 out of 1000
+Generation 107: Best Fitness = 7663.3679, Mutation Rate = 0.160000, Features Selected: 405 out of 1000
+Generation 108: Best Fitness = 7663.3679, Mutation Rate = 0.140000, Features Selected: 405 out of 1000
+Generation 109: Best Fitness = 7663.3679, Mutation Rate = 0.120000, Features Selected: 405 out of 1000
+Generation 110: Best Fitness = 7663.3679, Mutation Rate = 0.100000, Features Selected: 405 out of 1000
+Generation 111: Best Fitness = 7665.0327, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 112: Best Fitness = 7665.0327, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 113: Best Fitness = 7665.0327, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 114: Best Fitness = 7665.0327, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 115: Best Fitness = 7665.0327, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 116: Best Fitness = 7665.0327, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 117: Best Fitness = 7665.0327, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 118: Best Fitness = 7665.0327, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 119: Best Fitness = 7665.0327, Mutation Rate = 0.240000, Features Selected: 403 out of 1000
+Generation 120: Best Fitness = 7665.0327, Mutation Rate = 0.220000, Features Selected: 403 out of 1000
+Generation 121: Best Fitness = 7665.0327, Mutation Rate = 0.200000, Features Selected: 403 out of 1000
+Generation 122: Best Fitness = 7665.0327, Mutation Rate = 0.180000, Features Selected: 403 out of 1000
+Generation 123: Best Fitness = 7665.0327, Mutation Rate = 0.160000, Features Selected: 403 out of 1000
+Generation 124: Best Fitness = 7665.0327, Mutation Rate = 0.140000, Features Selected: 403 out of 1000
+Generation 125: Best Fitness = 7665.0327, Mutation Rate = 0.120000, Features Selected: 403 out of 1000
+
+----- Final Report -----
+Best Fitness: 7665.0327
+Best individual (bit string): [1 0 0 1 1 0 0 1 1 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 0 1 0 1 1 0 1 1 0 0 0 1 0
+ 1 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 1 1 1 0 0
+ 1 0 0 1 1 0 0 1 1 0 0 1 0 1 0 0 0 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 0 1 0 0
+ 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 0 0
+ 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 1 1 0 1 0 1 0 0 1 0 0 1 0
+ 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 1 0 1 0 1 1 0 0 0 1 0 1 0 0 0 1 1 0
+ 0 0 1 0 1 0 0 1 1 0 0 0 0 0 1 1 0 1 0 1 0 0 1 1 0 1 0 0 0 1 0 0 1 1 1 1 1
+ 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 1 1 1 1 0 1 1 0 1 1 0 0 0 0 0 0 1 1
+ 0 0 1 1 0 0 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 1
+ 0 1 1 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0
+ 0 0 0 1 0 1 0 1 1 1 0 1 1 1 0 1 1 1 0 0 0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1
+ 0 0 1 0 1 0 0 1 0 0 0 1 1 1 0 1 0 1 1 0 0 0 0 0 1 0 1 0 1 1 1 1 0 1 0 0 0
+ 0 1 1 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 0 1 1 0 1 1 0 0 0 1 1 0 1 0 1 1 0 1 0
+ 0 0 0 0 0 0 1 0 1 0 1 0 1 1 1 0 0 0 0 1 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0
+ 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 1 1 0
+ 1 0 0 0 1 1 1 1 1 0 0 0 1 0 0 1 1 0 0 0 0 1 1 1 1 0 0 1 0 1 1 0 0 0 1 1 0
+ 0 0 1 1 0 0 0 0 1 1 0 1 1 1 0 0 1 1 1 1 0 1 0 0 1 0 1 0 1 0 0 1 0 0 1 1 0
+ 0 0 1 0 1 0 0 0 0 1 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 1 0 0 0 0 1 0 1 1 0 1 1 0 1 0 0 0 1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 1 0 0 1 1 1 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1
+ 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 0 1 0 0
+ 0 1 1 0 0 0 1 1 0 0 1 1 0 1 0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0
+ 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 1 1 0 1 1 0 0 1 0 1 0 1 0 0 0 1 1 0 1 0 1
+ 0 0 0 0 1 0 1 0 1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 0 0 1 0 0 1
+ 0 0 0 1 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1
+ 0 1 1 1 0 1 0 0 1 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 1 1
+ 0 0 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 1 1 0 0 1
+ 0]
+Features selected (indices): [  0   3   4   7   8  14  18  20  21  23  25  27  28  30  31  35  37  38
+  43  44  47  53  57  58  62  66  67  69  70  71  74  77  78  81  82  85
+  87  92  95  96  99 101 102 104 108 115 125 126 127 130 134 135 138 139
+ 140 149 151 152 153 154 156 158 160 161 163 168 169 170 172 173 175 177
+ 180 183 185 193 197 198 201 202 203 204 206 208 209 213 215 219 220 224
+ 226 229 230 236 237 239 241 244 245 247 251 254 255 256 257 258 260 261
+ 272 275 276 278 279 280 281 283 284 286 287 294 295 298 299 305 306 308
+ 310 317 323 326 329 330 332 334 335 336 344 346 351 353 354 355 362 366
+ 373 375 377 378 379 381 382 383 385 386 387 391 395 396 398 399 406 409
+ 411 414 418 419 420 422 424 425 431 433 435 436 437 438 440 445 446 447
+ 450 451 453 455 457 459 463 464 466 467 471 472 474 476 477 479 487 489
+ 491 493 494 495 500 502 503 505 506 516 518 524 527 529 533 537 540 542
+ 543 545 548 550 551 552 553 555 559 560 561 562 563 567 570 571 576 577
+ 578 579 582 584 585 589 590 594 595 600 601 603 604 605 608 609 610 611
+ 613 616 618 620 623 626 627 631 633 638 640 642 646 647 656 665 670 675
+ 677 678 680 681 683 687 689 692 693 695 696 708 712 714 718 719 722 723
+ 724 725 727 728 730 731 732 735 736 737 739 748 749 751 755 756 758 759
+ 761 762 766 767 768 770 771 774 778 779 783 784 787 788 790 794 795 796
+ 799 801 811 812 815 817 819 821 822 827 828 830 831 833 834 837 839 841
+ 845 846 848 850 855 857 859 861 864 865 866 871 872 875 877 878 880 881
+ 884 887 891 897 898 902 903 904 907 917 921 922 923 924 926 927 928 930
+ 933 935 937 941 942 951 953 955 956 960 961 965 966 967 968 969 974 975
+ 979 986 987 991 994 995 998]
+Number of features selected: 403 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  3
+Random seed: 44
+Generation 1: Best Fitness = 7225.7196, Mutation Rate = 0.240000, Features Selected: 470 out of 1000
+Generation 2: Best Fitness = 7225.7196, Mutation Rate = 0.232907, Features Selected: 470 out of 1000
+Generation 3: Best Fitness = 7253.1593, Mutation Rate = 0.226023, Features Selected: 463 out of 1000
+Generation 4: Best Fitness = 7253.1593, Mutation Rate = 0.219343, Features Selected: 463 out of 1000
+Generation 5: Best Fitness = 7262.8065, Mutation Rate = 0.212861, Features Selected: 456 out of 1000
+Generation 6: Best Fitness = 7301.8875, Mutation Rate = 0.206570, Features Selected: 458 out of 1000
+Generation 7: Best Fitness = 7301.8875, Mutation Rate = 0.200465, Features Selected: 458 out of 1000
+Generation 8: Best Fitness = 7334.8086, Mutation Rate = 0.194540, Features Selected: 461 out of 1000
+Generation 9: Best Fitness = 7354.0071, Mutation Rate = 0.188791, Features Selected: 462 out of 1000
+Generation 10: Best Fitness = 7354.0071, Mutation Rate = 0.183211, Features Selected: 462 out of 1000
+Generation 11: Best Fitness = 7354.0071, Mutation Rate = 0.177796, Features Selected: 462 out of 1000
+Generation 12: Best Fitness = 7354.0071, Mutation Rate = 0.172542, Features Selected: 462 out of 1000
+Generation 13: Best Fitness = 7375.7697, Mutation Rate = 0.167442, Features Selected: 448 out of 1000
+Generation 14: Best Fitness = 7375.7697, Mutation Rate = 0.162494, Features Selected: 448 out of 1000
+Generation 15: Best Fitness = 7375.7697, Mutation Rate = 0.157691, Features Selected: 448 out of 1000
+Generation 16: Best Fitness = 7391.6327, Mutation Rate = 0.153031, Features Selected: 435 out of 1000
+Generation 17: Best Fitness = 7401.8875, Mutation Rate = 0.148508, Features Selected: 438 out of 1000
+Generation 18: Best Fitness = 7451.3766, Mutation Rate = 0.144119, Features Selected: 436 out of 1000
+Generation 19: Best Fitness = 7451.3766, Mutation Rate = 0.139860, Features Selected: 436 out of 1000
+Generation 20: Best Fitness = 7451.3766, Mutation Rate = 0.135726, Features Selected: 436 out of 1000
+Generation 21: Best Fitness = 7451.3766, Mutation Rate = 0.131715, Features Selected: 436 out of 1000
+Generation 22: Best Fitness = 7451.3766, Mutation Rate = 0.127822, Features Selected: 436 out of 1000
+Generation 23: Best Fitness = 7451.3766, Mutation Rate = 0.124044, Features Selected: 436 out of 1000
+Generation 24: Best Fitness = 7517.7895, Mutation Rate = 0.120378, Features Selected: 426 out of 1000
+Generation 25: Best Fitness = 7539.0071, Mutation Rate = 0.116821, Features Selected: 425 out of 1000
+Generation 26: Best Fitness = 7539.0071, Mutation Rate = 0.113368, Features Selected: 425 out of 1000
+Generation 27: Best Fitness = 7539.0071, Mutation Rate = 0.110017, Features Selected: 425 out of 1000
+Generation 28: Best Fitness = 7539.0071, Mutation Rate = 0.106766, Features Selected: 425 out of 1000
+Generation 29: Best Fitness = 7577.1353, Mutation Rate = 0.103611, Features Selected: 419 out of 1000
+Generation 30: Best Fitness = 7577.1353, Mutation Rate = 0.100548, Features Selected: 419 out of 1000
+Generation 31: Best Fitness = 7577.1353, Mutation Rate = 0.097577, Features Selected: 419 out of 1000
+Generation 32: Best Fitness = 7577.1353, Mutation Rate = 0.094693, Features Selected: 419 out of 1000
+Generation 33: Best Fitness = 7578.3679, Mutation Rate = 0.091894, Features Selected: 422 out of 1000
+Generation 34: Best Fitness = 7578.3679, Mutation Rate = 0.089178, Features Selected: 422 out of 1000
+Generation 35: Best Fitness = 7578.3679, Mutation Rate = 0.086543, Features Selected: 422 out of 1000
+Generation 36: Best Fitness = 7578.3679, Mutation Rate = 0.083985, Features Selected: 422 out of 1000
+Generation 37: Best Fitness = 7578.3679, Mutation Rate = 0.081503, Features Selected: 422 out of 1000
+Generation 38: Best Fitness = 7578.3679, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 39: Best Fitness = 7588.3679, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 40: Best Fitness = 7588.3679, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 41: Best Fitness = 7588.3679, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 42: Best Fitness = 7588.3679, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 43: Best Fitness = 7588.3679, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 44: Best Fitness = 7588.3679, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 45: Best Fitness = 7588.3679, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 46: Best Fitness = 7602.8941, Mutation Rate = 0.240000, Features Selected: 422 out of 1000
+Generation 47: Best Fitness = 7602.8941, Mutation Rate = 0.240000, Features Selected: 422 out of 1000
+Generation 48: Best Fitness = 7602.8941, Mutation Rate = 0.220000, Features Selected: 422 out of 1000
+Generation 49: Best Fitness = 7602.8941, Mutation Rate = 0.200000, Features Selected: 422 out of 1000
+Generation 50: Best Fitness = 7603.3679, Mutation Rate = 0.180000, Features Selected: 417 out of 1000
+Generation 51: Best Fitness = 7603.3679, Mutation Rate = 0.180000, Features Selected: 417 out of 1000
+Generation 52: Best Fitness = 7607.1353, Mutation Rate = 0.160000, Features Selected: 413 out of 1000
+Generation 53: Best Fitness = 7607.1353, Mutation Rate = 0.160000, Features Selected: 413 out of 1000
+Generation 54: Best Fitness = 7607.1353, Mutation Rate = 0.140000, Features Selected: 413 out of 1000
+Generation 55: Best Fitness = 7607.1353, Mutation Rate = 0.120000, Features Selected: 413 out of 1000
+Generation 56: Best Fitness = 7612.1353, Mutation Rate = 0.100000, Features Selected: 412 out of 1000
+Generation 57: Best Fitness = 7612.1353, Mutation Rate = 0.100000, Features Selected: 412 out of 1000
+Generation 58: Best Fitness = 7612.1353, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 59: Best Fitness = 7612.1353, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 60: Best Fitness = 7616.6473, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 61: Best Fitness = 7616.6473, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 62: Best Fitness = 7617.5887, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 63: Best Fitness = 7617.5887, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 64: Best Fitness = 7637.5887, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 65: Best Fitness = 7637.5887, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 66: Best Fitness = 7637.5887, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 67: Best Fitness = 7637.5887, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 68: Best Fitness = 7637.5887, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 69: Best Fitness = 7637.5887, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 70: Best Fitness = 7637.5887, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 71: Best Fitness = 7637.5887, Mutation Rate = 0.240000, Features Selected: 420 out of 1000
+Generation 72: Best Fitness = 7637.5887, Mutation Rate = 0.220000, Features Selected: 420 out of 1000
+Generation 73: Best Fitness = 7637.5887, Mutation Rate = 0.200000, Features Selected: 420 out of 1000
+Generation 74: Best Fitness = 7642.5887, Mutation Rate = 0.180000, Features Selected: 419 out of 1000
+Generation 75: Best Fitness = 7642.5887, Mutation Rate = 0.180000, Features Selected: 419 out of 1000
+Generation 76: Best Fitness = 7642.5887, Mutation Rate = 0.160000, Features Selected: 419 out of 1000
+Generation 77: Best Fitness = 7642.5887, Mutation Rate = 0.140000, Features Selected: 419 out of 1000
+Generation 78: Best Fitness = 7647.8941, Mutation Rate = 0.120000, Features Selected: 413 out of 1000
+Generation 79: Best Fitness = 7647.8941, Mutation Rate = 0.120000, Features Selected: 413 out of 1000
+Generation 80: Best Fitness = 7652.8941, Mutation Rate = 0.100000, Features Selected: 412 out of 1000
+Generation 81: Best Fitness = 7657.5887, Mutation Rate = 0.100000, Features Selected: 416 out of 1000
+Generation 82: Best Fitness = 7657.5887, Mutation Rate = 0.100000, Features Selected: 416 out of 1000
+Generation 83: Best Fitness = 7672.4546, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 84: Best Fitness = 7672.4546, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 85: Best Fitness = 7672.4546, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 86: Best Fitness = 7672.5887, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 87: Best Fitness = 7672.5887, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 88: Best Fitness = 7672.5887, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 89: Best Fitness = 7672.5887, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 90: Best Fitness = 7672.5887, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 91: Best Fitness = 7672.5887, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 92: Best Fitness = 7672.5887, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 93: Best Fitness = 7672.5887, Mutation Rate = 0.240000, Features Selected: 413 out of 1000
+Generation 94: Best Fitness = 7672.5887, Mutation Rate = 0.220000, Features Selected: 413 out of 1000
+Generation 95: Best Fitness = 7672.5887, Mutation Rate = 0.200000, Features Selected: 413 out of 1000
+Generation 96: Best Fitness = 7672.5887, Mutation Rate = 0.180000, Features Selected: 413 out of 1000
+Generation 97: Best Fitness = 7672.5887, Mutation Rate = 0.160000, Features Selected: 413 out of 1000
+Generation 98: Best Fitness = 7687.4546, Mutation Rate = 0.140000, Features Selected: 415 out of 1000
+Generation 99: Best Fitness = 7687.4546, Mutation Rate = 0.140000, Features Selected: 415 out of 1000
+Generation 100: Best Fitness = 7687.4546, Mutation Rate = 0.120000, Features Selected: 415 out of 1000
+Generation 101: Best Fitness = 7692.5887, Mutation Rate = 0.100000, Features Selected: 409 out of 1000
+Generation 102: Best Fitness = 7692.5887, Mutation Rate = 0.100000, Features Selected: 409 out of 1000
+Generation 103: Best Fitness = 7696.1820, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 104: Best Fitness = 7696.1820, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 105: Best Fitness = 7697.5887, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 106: Best Fitness = 7697.5887, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 107: Best Fitness = 7697.5887, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 108: Best Fitness = 7697.5887, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 109: Best Fitness = 7697.5887, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 110: Best Fitness = 7697.5887, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 111: Best Fitness = 7707.4546, Mutation Rate = 0.080000, Features Selected: 411 out of 1000
+Generation 112: Best Fitness = 7707.4546, Mutation Rate = 0.080000, Features Selected: 411 out of 1000
+Generation 113: Best Fitness = 7712.4546, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 114: Best Fitness = 7712.4546, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 115: Best Fitness = 7712.4546, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 116: Best Fitness = 7712.4546, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 117: Best Fitness = 7717.4546, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 118: Best Fitness = 7717.4546, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 119: Best Fitness = 7717.4546, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 120: Best Fitness = 7717.4546, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 121: Best Fitness = 7717.4546, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 122: Best Fitness = 7717.4546, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 123: Best Fitness = 7717.4546, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 124: Best Fitness = 7717.4546, Mutation Rate = 0.240000, Features Selected: 409 out of 1000
+Generation 125: Best Fitness = 7717.4546, Mutation Rate = 0.220000, Features Selected: 409 out of 1000
+
+----- Final Report -----
+Best Fitness: 7717.4546
+Best individual (bit string): [1 1 1 0 0 0 1 1 0 1 0 0 1 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1
+ 1 0 0 1 0 0 0 1 0 1 1 0 0 1 1 0 0 0 0 1 0 0 0 1 1 1 1 1 1 0 0 1 0 0 0 1 0
+ 1 1 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 0 1 1 0 1 0 1 0 1 1 0 1 0 0 0 0 0 0 1
+ 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 0 0 1 0 1 0 1 0 1 1 1 0 0 1 0 0 1 0 1 1
+ 1 1 0 0 0 0 1 0 1 0 0 1 0 1 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 1 0 1 1 0
+ 1 0 1 1 0 0 1 1 1 1 0 1 0 1 1 1 0 1 1 1 0 0 1 0 0 0 1 0 1 1 0 0 0 0 0 0 0
+ 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 0 1 0 0 1 0
+ 1 1 1 1 1 0 1 1 1 0 1 1 0 0 0 0 0 1 0 1 0 1 1 0 0 0 1 0 0 0 1 0 1 1 0 1 0
+ 0 0 1 0 1 0 1 1 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 1
+ 0 0 0 1 0 1 1 0 1 1 0 0 1 1 1 1 0 0 1 1 0 0 1 0 0 1 0 0 0 0 1 1 1 1 0 1 1
+ 0 1 1 1 1 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 1
+ 0 0 1 1 0 0 0 1 1 0 0 0 0 1 1 1 0 1 0 0 0 0 1 1 0 0 1 1 0 1 0 0 0 0 0 0 1
+ 0 1 0 0 0 0 1 1 1 1 1 1 0 0 1 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0 0 0 1 1 0 1
+ 1 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1
+ 0 0 0 1 0 1 0 0 1 1 0 1 0 0 0 1 0 0 1 0 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 0
+ 1 1 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 0 0 1 0 0 0 1 1 0 1 0 1 0 0 0 0 0 1 1 1
+ 0 1 0 0 1 1 1 1 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 1 0 0 1 1 1 1 0
+ 0 0 0 1 0 0 0 1 0 1 0 0 0 0 1 1 1 0 0 1 0 0 0 1 0 1 0 1 1 1 1 1 0 0 0 0 0
+ 0 1 0 0 1 1 0 1 1 1 0 0 1 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 0 1 0
+ 1 0 1 0 1 0 0 0 0 0 1 0 0 1 1 1 0 1 0 0 0 1 0 1 0 1 0 1 0 1 0 1 1 1 0 0 0
+ 0 1 1 0 0 0 1 1 0 0 1 1 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0
+ 1 1 0 1 1 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1
+ 0 1 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0
+ 0 1 0 0 1 1 0 0 0 1 1 1 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0
+ 0 0 1 1 0 1 1 0 0 1 0 0 1 0 0 1 1 0 1 0 0 1 1 0 0 1 1 0 0 0 1 0 1 0 0 0 0
+ 1 0 1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 1 0 1 0 0 0 1 1 1 0 0 0 0 1 0 1 0 0 0 0
+ 1 1 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1
+ 1]
+Features selected (indices): [  0   1   2   6   7   9  12  14  16  18  20  21  31  33  35  36  37  40
+  44  46  47  50  51  56  60  61  62  63  64  65  68  72  74  75  80  81
+  82  86  87  93  94  96  98 100 101 103 110 111 115 123 125 126 127 130
+ 132 134 136 137 138 141 144 146 147 148 149 154 156 159 161 166 169 171
+ 175 180 182 183 185 187 188 191 192 193 194 196 198 199 200 202 203 204
+ 207 211 213 214 223 227 239 242 243 244 249 250 252 254 257 259 260 261
+ 262 263 265 266 267 269 270 276 278 280 281 285 289 291 292 294 298 300
+ 302 303 304 306 313 316 317 323 327 329 332 336 338 339 341 342 345 346
+ 347 348 351 352 355 358 363 364 365 366 368 369 371 372 373 374 376 378
+ 381 384 390 391 395 397 399 405 406 409 410 414 415 420 421 422 424 429
+ 430 433 434 436 443 445 450 451 452 453 454 455 458 464 467 468 472 477
+ 478 480 481 482 485 491 495 498 502 507 511 512 515 516 517 521 523 526
+ 527 529 533 536 539 542 543 544 546 548 549 550 551 552 553 555 556 557
+ 559 565 567 569 571 574 578 579 581 583 589 590 591 593 596 597 598 599
+ 600 601 603 608 616 617 620 621 624 625 626 627 632 636 638 643 644 645
+ 648 652 654 656 657 658 659 660 667 670 671 673 674 675 678 680 683 689
+ 692 694 698 701 703 705 707 713 716 717 718 720 724 726 728 730 732 734
+ 735 736 741 742 746 747 750 751 756 757 760 764 765 770 774 777 778 780
+ 781 790 791 793 794 801 808 810 812 813 815 817 818 823 826 831 832 833
+ 839 841 845 852 855 856 860 861 862 866 867 871 872 873 876 878 883 890
+ 891 893 894 897 900 903 904 906 909 910 913 914 918 920 925 927 930 931
+ 933 934 937 938 939 940 942 944 948 949 950 955 957 962 963 970 971 972
+ 973 974 975 976 979 981 983 984 987 996 997 998 999]
+Number of features selected: 409 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  4
+Random seed: 45
+Generation 1: Best Fitness = 7260.7697, Mutation Rate = 0.240000, Features Selected: 471 out of 1000
+Generation 2: Best Fitness = 7260.7697, Mutation Rate = 0.232907, Features Selected: 471 out of 1000
+Generation 3: Best Fitness = 7284.8086, Mutation Rate = 0.226023, Features Selected: 471 out of 1000
+Generation 4: Best Fitness = 7294.8086, Mutation Rate = 0.219343, Features Selected: 469 out of 1000
+Generation 5: Best Fitness = 7294.8086, Mutation Rate = 0.212861, Features Selected: 469 out of 1000
+Generation 6: Best Fitness = 7299.8086, Mutation Rate = 0.206570, Features Selected: 468 out of 1000
+Generation 7: Best Fitness = 7364.5845, Mutation Rate = 0.200465, Features Selected: 447 out of 1000
+Generation 8: Best Fitness = 7364.5845, Mutation Rate = 0.194540, Features Selected: 447 out of 1000
+Generation 9: Best Fitness = 7364.5845, Mutation Rate = 0.188791, Features Selected: 447 out of 1000
+Generation 10: Best Fitness = 7364.5845, Mutation Rate = 0.183211, Features Selected: 447 out of 1000
+Generation 11: Best Fitness = 7364.5845, Mutation Rate = 0.177796, Features Selected: 447 out of 1000
+Generation 12: Best Fitness = 7386.3766, Mutation Rate = 0.172542, Features Selected: 449 out of 1000
+Generation 13: Best Fitness = 7386.3766, Mutation Rate = 0.167442, Features Selected: 449 out of 1000
+Generation 14: Best Fitness = 7386.3766, Mutation Rate = 0.162494, Features Selected: 449 out of 1000
+Generation 15: Best Fitness = 7402.7895, Mutation Rate = 0.157691, Features Selected: 449 out of 1000
+Generation 16: Best Fitness = 7402.7895, Mutation Rate = 0.153031, Features Selected: 449 out of 1000
+Generation 17: Best Fitness = 7419.0071, Mutation Rate = 0.148508, Features Selected: 449 out of 1000
+Generation 18: Best Fitness = 7419.0071, Mutation Rate = 0.144119, Features Selected: 449 out of 1000
+Generation 19: Best Fitness = 7419.0071, Mutation Rate = 0.139860, Features Selected: 449 out of 1000
+Generation 20: Best Fitness = 7420.7697, Mutation Rate = 0.135726, Features Selected: 439 out of 1000
+Generation 21: Best Fitness = 7420.7697, Mutation Rate = 0.131715, Features Selected: 439 out of 1000
+Generation 22: Best Fitness = 7420.7697, Mutation Rate = 0.127822, Features Selected: 439 out of 1000
+Generation 23: Best Fitness = 7440.7697, Mutation Rate = 0.124044, Features Selected: 435 out of 1000
+Generation 24: Best Fitness = 7440.7697, Mutation Rate = 0.120378, Features Selected: 435 out of 1000
+Generation 25: Best Fitness = 7464.0071, Mutation Rate = 0.116821, Features Selected: 440 out of 1000
+Generation 26: Best Fitness = 7464.0071, Mutation Rate = 0.113368, Features Selected: 440 out of 1000
+Generation 27: Best Fitness = 7464.0071, Mutation Rate = 0.110017, Features Selected: 440 out of 1000
+Generation 28: Best Fitness = 7464.0071, Mutation Rate = 0.106766, Features Selected: 440 out of 1000
+Generation 29: Best Fitness = 7470.7060, Mutation Rate = 0.103611, Features Selected: 437 out of 1000
+Generation 30: Best Fitness = 7475.7060, Mutation Rate = 0.100548, Features Selected: 436 out of 1000
+Generation 31: Best Fitness = 7485.7060, Mutation Rate = 0.097577, Features Selected: 434 out of 1000
+Generation 32: Best Fitness = 7485.7060, Mutation Rate = 0.094693, Features Selected: 434 out of 1000
+Generation 33: Best Fitness = 7505.7060, Mutation Rate = 0.091894, Features Selected: 430 out of 1000
+Generation 34: Best Fitness = 7505.7060, Mutation Rate = 0.089178, Features Selected: 430 out of 1000
+Generation 35: Best Fitness = 7507.7895, Mutation Rate = 0.086543, Features Selected: 428 out of 1000
+Generation 36: Best Fitness = 7532.1353, Mutation Rate = 0.083985, Features Selected: 428 out of 1000
+Generation 37: Best Fitness = 7532.1353, Mutation Rate = 0.081503, Features Selected: 428 out of 1000
+Generation 38: Best Fitness = 7532.1353, Mutation Rate = 0.080000, Features Selected: 428 out of 1000
+Generation 39: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 40: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 41: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 42: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 43: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 44: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 45: Best Fitness = 7552.7895, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 46: Best Fitness = 7555.2024, Mutation Rate = 0.240000, Features Selected: 425 out of 1000
+Generation 47: Best Fitness = 7555.2024, Mutation Rate = 0.240000, Features Selected: 425 out of 1000
+Generation 48: Best Fitness = 7622.5887, Mutation Rate = 0.220000, Features Selected: 423 out of 1000
+Generation 49: Best Fitness = 7622.5887, Mutation Rate = 0.220000, Features Selected: 423 out of 1000
+Generation 50: Best Fitness = 7622.5887, Mutation Rate = 0.200000, Features Selected: 423 out of 1000
+Generation 51: Best Fitness = 7622.5887, Mutation Rate = 0.180000, Features Selected: 423 out of 1000
+Generation 52: Best Fitness = 7622.5887, Mutation Rate = 0.160000, Features Selected: 423 out of 1000
+Generation 53: Best Fitness = 7622.5887, Mutation Rate = 0.140000, Features Selected: 423 out of 1000
+Generation 54: Best Fitness = 7622.5887, Mutation Rate = 0.120000, Features Selected: 423 out of 1000
+Generation 55: Best Fitness = 7622.5887, Mutation Rate = 0.100000, Features Selected: 423 out of 1000
+Generation 56: Best Fitness = 7622.5887, Mutation Rate = 0.080000, Features Selected: 423 out of 1000
+Generation 57: Best Fitness = 7622.5887, Mutation Rate = 0.080000, Features Selected: 423 out of 1000
+Generation 58: Best Fitness = 7622.5887, Mutation Rate = 0.080000, Features Selected: 423 out of 1000
+Generation 59: Best Fitness = 7622.5887, Mutation Rate = 0.080000, Features Selected: 423 out of 1000
+Generation 60: Best Fitness = 7622.5887, Mutation Rate = 0.080000, Features Selected: 423 out of 1000
+Generation 61: Best Fitness = 7622.5887, Mutation Rate = 0.080000, Features Selected: 423 out of 1000
+Generation 62: Best Fitness = 7622.5887, Mutation Rate = 0.080000, Features Selected: 423 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 63: Best Fitness = 7622.5887, Mutation Rate = 0.240000, Features Selected: 423 out of 1000
+Generation 64: Best Fitness = 7622.5887, Mutation Rate = 0.220000, Features Selected: 423 out of 1000
+Generation 65: Best Fitness = 7626.6473, Mutation Rate = 0.200000, Features Selected: 414 out of 1000
+Generation 66: Best Fitness = 7626.6473, Mutation Rate = 0.200000, Features Selected: 414 out of 1000
+Generation 67: Best Fitness = 7627.5887, Mutation Rate = 0.180000, Features Selected: 422 out of 1000
+Generation 68: Best Fitness = 7627.5887, Mutation Rate = 0.180000, Features Selected: 422 out of 1000
+Generation 69: Best Fitness = 7627.5887, Mutation Rate = 0.160000, Features Selected: 422 out of 1000
+Generation 70: Best Fitness = 7627.5887, Mutation Rate = 0.140000, Features Selected: 422 out of 1000
+Generation 71: Best Fitness = 7627.5887, Mutation Rate = 0.120000, Features Selected: 422 out of 1000
+Generation 72: Best Fitness = 7629.7084, Mutation Rate = 0.100000, Features Selected: 420 out of 1000
+Generation 73: Best Fitness = 7629.7084, Mutation Rate = 0.100000, Features Selected: 420 out of 1000
+Generation 74: Best Fitness = 7629.7084, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 75: Best Fitness = 7629.7084, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 76: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 77: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 78: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 79: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 80: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 81: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 82: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 83: Best Fitness = 7632.5887, Mutation Rate = 0.240000, Features Selected: 421 out of 1000
+Generation 84: Best Fitness = 7632.5887, Mutation Rate = 0.220000, Features Selected: 421 out of 1000
+Generation 85: Best Fitness = 7632.5887, Mutation Rate = 0.200000, Features Selected: 421 out of 1000
+Generation 86: Best Fitness = 7632.5887, Mutation Rate = 0.180000, Features Selected: 421 out of 1000
+Generation 87: Best Fitness = 7632.5887, Mutation Rate = 0.160000, Features Selected: 421 out of 1000
+Generation 88: Best Fitness = 7632.5887, Mutation Rate = 0.140000, Features Selected: 421 out of 1000
+Generation 89: Best Fitness = 7632.5887, Mutation Rate = 0.120000, Features Selected: 421 out of 1000
+Generation 90: Best Fitness = 7632.5887, Mutation Rate = 0.100000, Features Selected: 421 out of 1000
+Generation 91: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 92: Best Fitness = 7632.5887, Mutation Rate = 0.240000, Features Selected: 421 out of 1000
+Generation 93: Best Fitness = 7632.5887, Mutation Rate = 0.220000, Features Selected: 421 out of 1000
+Generation 94: Best Fitness = 7632.5887, Mutation Rate = 0.200000, Features Selected: 421 out of 1000
+Generation 95: Best Fitness = 7632.5887, Mutation Rate = 0.180000, Features Selected: 421 out of 1000
+Generation 96: Best Fitness = 7632.5887, Mutation Rate = 0.160000, Features Selected: 421 out of 1000
+Generation 97: Best Fitness = 7632.5887, Mutation Rate = 0.140000, Features Selected: 421 out of 1000
+Generation 98: Best Fitness = 7632.5887, Mutation Rate = 0.120000, Features Selected: 421 out of 1000
+Generation 99: Best Fitness = 7632.5887, Mutation Rate = 0.100000, Features Selected: 421 out of 1000
+Generation 100: Best Fitness = 7632.5887, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 101: Best Fitness = 7632.5887, Mutation Rate = 0.240000, Features Selected: 421 out of 1000
+Generation 102: Best Fitness = 7637.5887, Mutation Rate = 0.220000, Features Selected: 420 out of 1000
+Generation 103: Best Fitness = 7637.5887, Mutation Rate = 0.220000, Features Selected: 420 out of 1000
+Generation 104: Best Fitness = 7637.5887, Mutation Rate = 0.200000, Features Selected: 420 out of 1000
+Generation 105: Best Fitness = 7637.5887, Mutation Rate = 0.180000, Features Selected: 420 out of 1000
+Generation 106: Best Fitness = 7637.5887, Mutation Rate = 0.160000, Features Selected: 420 out of 1000
+Generation 107: Best Fitness = 7637.5887, Mutation Rate = 0.140000, Features Selected: 420 out of 1000
+Generation 108: Best Fitness = 7637.5887, Mutation Rate = 0.120000, Features Selected: 420 out of 1000
+Generation 109: Best Fitness = 7637.5887, Mutation Rate = 0.100000, Features Selected: 420 out of 1000
+Generation 110: Best Fitness = 7637.5887, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 111: Best Fitness = 7647.5887, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 112: Best Fitness = 7647.5887, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 113: Best Fitness = 7647.5887, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 114: Best Fitness = 7647.5887, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 115: Best Fitness = 7647.5887, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 116: Best Fitness = 7647.5887, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 117: Best Fitness = 7647.5887, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 118: Best Fitness = 7647.5887, Mutation Rate = 0.240000, Features Selected: 418 out of 1000
+Generation 119: Best Fitness = 7647.5887, Mutation Rate = 0.220000, Features Selected: 418 out of 1000
+Generation 120: Best Fitness = 7647.5887, Mutation Rate = 0.200000, Features Selected: 418 out of 1000
+Generation 121: Best Fitness = 7647.5887, Mutation Rate = 0.180000, Features Selected: 418 out of 1000
+Generation 122: Best Fitness = 7647.5887, Mutation Rate = 0.160000, Features Selected: 418 out of 1000
+Generation 123: Best Fitness = 7647.5887, Mutation Rate = 0.140000, Features Selected: 418 out of 1000
+Generation 124: Best Fitness = 7647.5887, Mutation Rate = 0.120000, Features Selected: 418 out of 1000
+Generation 125: Best Fitness = 7647.5887, Mutation Rate = 0.100000, Features Selected: 418 out of 1000
+
+----- Final Report -----
+Best Fitness: 7647.5887
+Best individual (bit string): [1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1
+ 0 0 1 0 1 0 0 0 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0
+ 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 1 1 1 0 0 0 0 1 1 0 1 0 1 0 0 0 1 0 0 0 0
+ 0 0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 1 1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 0 0
+ 0 0 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0 0 0 1 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 1 1
+ 0 0 1 1 1 0 1 1 0 1 1 0 1 1 1 1 0 1 0 0 1 1 0 0 0 0 0 0 1 0 1 0 0 0 1 1 0
+ 0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1 0 1 1 0 0 1 1 1 0 1 0 0 0 1 0 0 0 1 1 1 0
+ 1 1 1 1 1 0 1 0 0 0 0 0 1 0 1 1 0 0 1 0 1 1 1 1 0 0 1 1 0 1 1 1 0 1 1 1 0
+ 0 0 1 0 1 0 0 1 0 0 1 1 0 1 0 0 0 1 0 1 0 0 1 1 1 0 0 1 1 0 0 0 1 0 0 0 1
+ 0 0 1 1 0 1 0 0 1 1 0 0 0 1 0 0 1 1 1 1 1 0 0 0 1 1 0 0 0 1 0 0 1 0 0 0 1
+ 1 1 0 1 1 0 1 0 0 0 1 1 0 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 1 1 1 1 0 1 0 0 0
+ 1 0 1 0 0 0 1 0 0 1 0 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0
+ 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 1 0 1 1 0 0 0 1 1 0 1 0
+ 0 0 0 1 1 0 0 0 1 0 1 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 1 1 0 1 0 0 1 1 0 1
+ 1 0 1 1 0 0 0 0 1 1 0 1 0 1 0 0 1 1 1 0 0 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 1
+ 0 0 0 1 0 0 1 1 1 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0
+ 1 0 1 1 0 0 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 1 1 0 1 0 0 1
+ 1 1 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 0
+ 0 1 1 0 1 1 0 1 1 0 1 0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 1 1 1 1 0 1 0
+ 0 1 0 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 0 0 1 1 1 0 0 1 0 0 1 1 0 1 0 0 1 0
+ 1 1 0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 1 0 0 1 1 1 0 0 1 1 1
+ 0 0 1 0 1 0 0 0 0 1 0 1 0 0 1 0 0 1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 1 0 0 0 1
+ 0 0 0 0 1 1 0 0 0 0 0 1 1 1 0 1 0 1 1 1 1 1 0 0 1 1 0 0 0 1 0 1 1 0 1 0 0
+ 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 1
+ 0 0 1 0 0 0 1 1 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0 1 1 0 1 0 1 1 0 1 0 1 0 0 1
+ 0 1 0 0 1 1 0 1 1 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 1
+ 0 1 1 1 0 1 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0 1 0 0 1 1
+ 0]
+Features selected (indices): [  0   3   7   9  17  18  19  20  21  28  29  36  39  41  45  47  48  49
+  52  55  56  57  58  59  61  62  63  69  78  86  87  88  90  91  92  97
+  98 100 102 106 117 118 121 125 128 130 131 136 140 141 144 152 157 159
+ 161 162 163 167 170 172 175 177 179 180 181 182 183 184 187 188 189 191
+ 192 194 195 197 198 199 200 202 205 206 213 215 219 220 224 232 234 235
+ 236 237 239 240 243 244 245 247 251 255 256 257 259 260 261 262 263 265
+ 271 273 274 277 279 280 281 282 285 286 288 289 290 292 293 294 298 300
+ 303 306 307 309 313 315 318 319 320 323 324 328 332 335 336 338 341 342
+ 346 349 350 351 352 353 357 358 362 365 369 370 371 373 374 376 380 381
+ 387 388 389 391 393 394 398 399 400 401 403 407 409 413 416 419 420 421
+ 424 426 435 436 437 439 447 449 450 451 457 458 459 460 465 466 467 468
+ 469 471 472 476 477 479 484 485 489 491 495 498 499 505 508 509 511 514
+ 515 517 518 520 521 526 527 529 531 534 535 536 539 540 541 542 544 545
+ 554 558 561 562 563 564 566 568 570 571 573 575 577 582 583 588 590 592
+ 594 595 598 600 601 605 606 607 609 611 617 622 623 625 628 629 630 635
+ 637 638 639 640 641 642 643 644 645 646 647 648 651 656 659 662 667 668
+ 670 671 673 674 676 678 680 685 688 692 696 697 698 699 701 704 706 709
+ 715 716 719 720 721 724 725 726 729 732 733 735 738 740 741 746 747 750
+ 751 754 758 763 766 769 770 771 774 775 776 779 781 786 788 791 794 795
+ 796 797 798 799 801 802 803 804 805 809 813 818 819 825 826 827 829 831
+ 832 833 834 835 838 839 843 845 846 848 851 855 857 859 865 866 868 874
+ 876 880 881 886 887 890 894 895 897 900 901 907 911 912 914 916 917 919
+ 921 924 926 929 930 932 933 936 942 944 949 950 952 954 961 963 964 965
+ 967 970 974 976 977 982 983 985 988 994 997 998]
+Number of features selected: 426 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  5
+Random seed: 46
+Generation 1: Best Fitness = 7243.1593, Mutation Rate = 0.240000, Features Selected: 465 out of 1000
+Generation 2: Best Fitness = 7243.1593, Mutation Rate = 0.232907, Features Selected: 465 out of 1000
+Generation 3: Best Fitness = 7243.1593, Mutation Rate = 0.226023, Features Selected: 465 out of 1000
+Generation 4: Best Fitness = 7278.1593, Mutation Rate = 0.219343, Features Selected: 458 out of 1000
+Generation 5: Best Fitness = 7278.1593, Mutation Rate = 0.212861, Features Selected: 458 out of 1000
+Generation 6: Best Fitness = 7278.1593, Mutation Rate = 0.206570, Features Selected: 458 out of 1000
+Generation 7: Best Fitness = 7278.1593, Mutation Rate = 0.200465, Features Selected: 458 out of 1000
+Generation 8: Best Fitness = 7278.1593, Mutation Rate = 0.194540, Features Selected: 458 out of 1000
+Generation 9: Best Fitness = 7299.5825, Mutation Rate = 0.188791, Features Selected: 449 out of 1000
+Generation 10: Best Fitness = 7330.7196, Mutation Rate = 0.183211, Features Selected: 449 out of 1000
+Generation 11: Best Fitness = 7330.7196, Mutation Rate = 0.177796, Features Selected: 449 out of 1000
+Generation 12: Best Fitness = 7345.7697, Mutation Rate = 0.172542, Features Selected: 454 out of 1000
+Generation 13: Best Fitness = 7345.7697, Mutation Rate = 0.167442, Features Selected: 454 out of 1000
+Generation 14: Best Fitness = 7378.6069, Mutation Rate = 0.162494, Features Selected: 449 out of 1000
+Generation 15: Best Fitness = 7471.6473, Mutation Rate = 0.157691, Features Selected: 445 out of 1000
+Generation 16: Best Fitness = 7471.6473, Mutation Rate = 0.153031, Features Selected: 445 out of 1000
+Generation 17: Best Fitness = 7471.6473, Mutation Rate = 0.148508, Features Selected: 445 out of 1000
+Generation 18: Best Fitness = 7471.6473, Mutation Rate = 0.144119, Features Selected: 445 out of 1000
+Generation 19: Best Fitness = 7471.6473, Mutation Rate = 0.139860, Features Selected: 445 out of 1000
+Generation 20: Best Fitness = 7471.6473, Mutation Rate = 0.135726, Features Selected: 445 out of 1000
+Generation 21: Best Fitness = 7471.6473, Mutation Rate = 0.131715, Features Selected: 445 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 22: Best Fitness = 7471.6473, Mutation Rate = 0.240000, Features Selected: 445 out of 1000
+Generation 23: Best Fitness = 7471.6473, Mutation Rate = 0.220000, Features Selected: 445 out of 1000
+Generation 24: Best Fitness = 7471.6473, Mutation Rate = 0.200000, Features Selected: 445 out of 1000
+Generation 25: Best Fitness = 7471.6473, Mutation Rate = 0.180000, Features Selected: 445 out of 1000
+Generation 26: Best Fitness = 7471.6473, Mutation Rate = 0.160000, Features Selected: 445 out of 1000
+Generation 27: Best Fitness = 7471.6473, Mutation Rate = 0.140000, Features Selected: 445 out of 1000
+Generation 28: Best Fitness = 7472.5887, Mutation Rate = 0.120000, Features Selected: 453 out of 1000
+Generation 29: Best Fitness = 7472.5887, Mutation Rate = 0.120000, Features Selected: 453 out of 1000
+Generation 30: Best Fitness = 7472.5887, Mutation Rate = 0.100000, Features Selected: 453 out of 1000
+Generation 31: Best Fitness = 7502.5887, Mutation Rate = 0.080000, Features Selected: 447 out of 1000
+Generation 32: Best Fitness = 7502.5887, Mutation Rate = 0.080000, Features Selected: 447 out of 1000
+Generation 33: Best Fitness = 7522.4546, Mutation Rate = 0.091894, Features Selected: 448 out of 1000
+Generation 34: Best Fitness = 7522.4546, Mutation Rate = 0.089178, Features Selected: 448 out of 1000
+Generation 35: Best Fitness = 7522.4546, Mutation Rate = 0.086543, Features Selected: 448 out of 1000
+Generation 36: Best Fitness = 7522.4546, Mutation Rate = 0.083985, Features Selected: 448 out of 1000
+Generation 37: Best Fitness = 7526.3285, Mutation Rate = 0.081503, Features Selected: 439 out of 1000
+Generation 38: Best Fitness = 7526.3285, Mutation Rate = 0.080000, Features Selected: 439 out of 1000
+Generation 39: Best Fitness = 7526.3285, Mutation Rate = 0.080000, Features Selected: 439 out of 1000
+Generation 40: Best Fitness = 7577.4951, Mutation Rate = 0.080000, Features Selected: 442 out of 1000
+Generation 41: Best Fitness = 7577.4951, Mutation Rate = 0.080000, Features Selected: 442 out of 1000
+Generation 42: Best Fitness = 7577.4951, Mutation Rate = 0.080000, Features Selected: 442 out of 1000
+Generation 43: Best Fitness = 7577.4951, Mutation Rate = 0.080000, Features Selected: 442 out of 1000
+Generation 44: Best Fitness = 7581.2109, Mutation Rate = 0.080000, Features Selected: 438 out of 1000
+Generation 45: Best Fitness = 7581.2109, Mutation Rate = 0.080000, Features Selected: 438 out of 1000
+Generation 46: Best Fitness = 7581.2109, Mutation Rate = 0.080000, Features Selected: 438 out of 1000
+Generation 47: Best Fitness = 7581.2109, Mutation Rate = 0.080000, Features Selected: 438 out of 1000
+Generation 48: Best Fitness = 7582.5887, Mutation Rate = 0.080000, Features Selected: 431 out of 1000
+Generation 49: Best Fitness = 7587.4951, Mutation Rate = 0.080000, Features Selected: 440 out of 1000
+Generation 50: Best Fitness = 7587.7134, Mutation Rate = 0.080000, Features Selected: 445 out of 1000
+Generation 51: Best Fitness = 7587.7134, Mutation Rate = 0.080000, Features Selected: 445 out of 1000
+Generation 52: Best Fitness = 7587.7134, Mutation Rate = 0.080000, Features Selected: 445 out of 1000
+Generation 53: Best Fitness = 7587.7134, Mutation Rate = 0.080000, Features Selected: 445 out of 1000
+Generation 54: Best Fitness = 7587.7134, Mutation Rate = 0.080000, Features Selected: 445 out of 1000
+Generation 55: Best Fitness = 7587.7134, Mutation Rate = 0.080000, Features Selected: 445 out of 1000
+Generation 56: Best Fitness = 7602.4546, Mutation Rate = 0.080000, Features Selected: 432 out of 1000
+Generation 57: Best Fitness = 7632.4951, Mutation Rate = 0.080000, Features Selected: 431 out of 1000
+Generation 58: Best Fitness = 7642.7134, Mutation Rate = 0.080000, Features Selected: 434 out of 1000
+Generation 59: Best Fitness = 7642.7134, Mutation Rate = 0.080000, Features Selected: 434 out of 1000
+Generation 60: Best Fitness = 7642.7134, Mutation Rate = 0.080000, Features Selected: 434 out of 1000
+Generation 61: Best Fitness = 7642.7134, Mutation Rate = 0.080000, Features Selected: 434 out of 1000
+Generation 62: Best Fitness = 7642.7134, Mutation Rate = 0.080000, Features Selected: 434 out of 1000
+Generation 63: Best Fitness = 7642.7134, Mutation Rate = 0.080000, Features Selected: 434 out of 1000
+Generation 64: Best Fitness = 7662.7134, Mutation Rate = 0.080000, Features Selected: 430 out of 1000
+Generation 65: Best Fitness = 7662.7134, Mutation Rate = 0.080000, Features Selected: 430 out of 1000
+Generation 66: Best Fitness = 7662.7134, Mutation Rate = 0.080000, Features Selected: 430 out of 1000
+Generation 67: Best Fitness = 7662.7134, Mutation Rate = 0.080000, Features Selected: 430 out of 1000
+Generation 68: Best Fitness = 7662.7134, Mutation Rate = 0.080000, Features Selected: 430 out of 1000
+Generation 69: Best Fitness = 7662.7134, Mutation Rate = 0.080000, Features Selected: 430 out of 1000
+Generation 70: Best Fitness = 7662.7134, Mutation Rate = 0.080000, Features Selected: 430 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 71: Best Fitness = 7672.7134, Mutation Rate = 0.240000, Features Selected: 428 out of 1000
+Generation 72: Best Fitness = 7672.7134, Mutation Rate = 0.240000, Features Selected: 428 out of 1000
+Generation 73: Best Fitness = 7672.7134, Mutation Rate = 0.220000, Features Selected: 428 out of 1000
+Generation 74: Best Fitness = 7672.7134, Mutation Rate = 0.200000, Features Selected: 428 out of 1000
+Generation 75: Best Fitness = 7672.7134, Mutation Rate = 0.180000, Features Selected: 428 out of 1000
+Generation 76: Best Fitness = 7672.7134, Mutation Rate = 0.160000, Features Selected: 428 out of 1000
+Generation 77: Best Fitness = 7672.7134, Mutation Rate = 0.140000, Features Selected: 428 out of 1000
+Generation 78: Best Fitness = 7672.7134, Mutation Rate = 0.120000, Features Selected: 428 out of 1000
+Generation 79: Best Fitness = 7672.7134, Mutation Rate = 0.100000, Features Selected: 428 out of 1000
+Generation 80: Best Fitness = 7672.7134, Mutation Rate = 0.080000, Features Selected: 428 out of 1000
+Generation 81: Best Fitness = 7672.7134, Mutation Rate = 0.080000, Features Selected: 428 out of 1000
+Generation 82: Best Fitness = 7672.7134, Mutation Rate = 0.080000, Features Selected: 428 out of 1000
+Generation 83: Best Fitness = 7672.7134, Mutation Rate = 0.080000, Features Selected: 428 out of 1000
+Generation 84: Best Fitness = 7672.7134, Mutation Rate = 0.080000, Features Selected: 428 out of 1000
+Generation 85: Best Fitness = 7672.7134, Mutation Rate = 0.080000, Features Selected: 428 out of 1000
+Generation 86: Best Fitness = 7677.7134, Mutation Rate = 0.080000, Features Selected: 427 out of 1000
+Generation 87: Best Fitness = 7682.7134, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 88: Best Fitness = 7682.7134, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 89: Best Fitness = 7682.7134, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 90: Best Fitness = 7682.7134, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 91: Best Fitness = 7682.7134, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 92: Best Fitness = 7682.7134, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 93: Best Fitness = 7682.7134, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 94: Best Fitness = 7682.7134, Mutation Rate = 0.240000, Features Selected: 426 out of 1000
+Generation 95: Best Fitness = 7682.7134, Mutation Rate = 0.220000, Features Selected: 426 out of 1000
+Generation 96: Best Fitness = 7682.7134, Mutation Rate = 0.200000, Features Selected: 426 out of 1000
+Generation 97: Best Fitness = 7682.7134, Mutation Rate = 0.180000, Features Selected: 426 out of 1000
+Generation 98: Best Fitness = 7682.7134, Mutation Rate = 0.160000, Features Selected: 426 out of 1000
+Generation 99: Best Fitness = 7682.7134, Mutation Rate = 0.140000, Features Selected: 426 out of 1000
+Generation 100: Best Fitness = 7682.7134, Mutation Rate = 0.120000, Features Selected: 426 out of 1000
+Generation 101: Best Fitness = 7682.7134, Mutation Rate = 0.100000, Features Selected: 426 out of 1000
+Generation 102: Best Fitness = 7682.7134, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 103: Best Fitness = 7682.7134, Mutation Rate = 0.240000, Features Selected: 426 out of 1000
+Generation 104: Best Fitness = 7682.7134, Mutation Rate = 0.220000, Features Selected: 426 out of 1000
+Generation 105: Best Fitness = 7687.7134, Mutation Rate = 0.200000, Features Selected: 425 out of 1000
+Generation 106: Best Fitness = 7687.7134, Mutation Rate = 0.200000, Features Selected: 425 out of 1000
+Generation 107: Best Fitness = 7687.7134, Mutation Rate = 0.180000, Features Selected: 425 out of 1000
+Generation 108: Best Fitness = 7687.7134, Mutation Rate = 0.160000, Features Selected: 425 out of 1000
+Generation 109: Best Fitness = 7692.7134, Mutation Rate = 0.140000, Features Selected: 424 out of 1000
+Generation 110: Best Fitness = 7692.7134, Mutation Rate = 0.140000, Features Selected: 424 out of 1000
+Generation 111: Best Fitness = 7692.7134, Mutation Rate = 0.120000, Features Selected: 424 out of 1000
+Generation 112: Best Fitness = 7692.7134, Mutation Rate = 0.100000, Features Selected: 424 out of 1000
+Generation 113: Best Fitness = 7692.7134, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 114: Best Fitness = 7692.7134, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 115: Best Fitness = 7692.7134, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 116: Best Fitness = 7692.7134, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 117: Best Fitness = 7692.7134, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 118: Best Fitness = 7692.7134, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 119: Best Fitness = 7692.7134, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 120: Best Fitness = 7692.7134, Mutation Rate = 0.240000, Features Selected: 424 out of 1000
+Generation 121: Best Fitness = 7692.7134, Mutation Rate = 0.220000, Features Selected: 424 out of 1000
+Generation 122: Best Fitness = 7692.7134, Mutation Rate = 0.200000, Features Selected: 424 out of 1000
+Generation 123: Best Fitness = 7692.7134, Mutation Rate = 0.180000, Features Selected: 424 out of 1000
+Generation 124: Best Fitness = 7692.7134, Mutation Rate = 0.160000, Features Selected: 424 out of 1000
+Generation 125: Best Fitness = 7692.7134, Mutation Rate = 0.140000, Features Selected: 424 out of 1000
+
+----- Final Report -----
+Best Fitness: 7692.7134
+Best individual (bit string): [0 1 0 1 0 1 1 1 1 0 1 0 0 0 1 1 1 0 1 0 0 0 0 1 0 1 1 1 1 0 1 1 1 0 1 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 1 1 0 0 0 0 1 0 1 0 0 1 1 0 1 1 0 1 0
+ 1 1 0 0 0 1 0 1 0 1 0 0 1 0 0 1 1 1 1 1 0 0 0 0 1 0 1 1 1 1 1 1 0 1 1 0 0
+ 0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0
+ 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0 0 1 1 0 0 1
+ 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 1 1 0 1 0 0 1 1 1 0
+ 0 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0 1 1 0 0 1 0 0
+ 1 0 1 1 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 1 1 1 1 1 1 0
+ 1 0 1 0 1 1 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 1 1 1 0 0 1 1 1 1 1 1 1
+ 0 0 0 1 1 0 1 0 0 1 0 0 1 1 0 0 0 1 0 0 1 0 0 0 1 0 0 1 0 1 0 0 1 1 0 1 1
+ 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0
+ 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 1 1 0 1 0 1 0 0 0 0 0 0 0
+ 1 0 0 1 1 0 1 0 1 0 1 0 0 1 1 0 1 1 1 0 1 1 0 0 0 0 0 1 1 0 0 0 0 1 0 1 1
+ 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 1
+ 1 0 0 1 0 0 1 0 0 1 1 0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 1 0 0 0 0
+ 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 1 1 1
+ 1 0 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 1 1 0 0 1 0 1 0 1 1 0 0 0 1 1 0 0 0 0
+ 1 1 0 1 0 1 0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 1 1 0 1 0 0 1 1 1 0 0 1 0 0 0 0
+ 1 0 1 0 0 1 0 1 1 1 0 0 1 0 1 1 1 0 0 1 0 0 1 1 1 0 1 0 0 1 1 1 1 1 0 0 0
+ 1 0 1 1 0 1 1 0 0 0 1 1 1 0 0 1 1 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1
+ 1 1 1 0 1 0 1 1 1 0 1 0 1 0 1 1 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 0 1 0 1 0 1
+ 1 1 0 0 1 0 1 0 0 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 1 0 1 1 1 0 1 0 1 0 0 0 0
+ 1 1 0 1 0 0 1 1 0 0 1 0 0 0 1 0 1 0 1 1 1 0 0 0 0 1 0 0 1 0 1 0 0 1 0 0 1
+ 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0 1 1 0 1 0 1 0 0 0 1 0 0 0 1 1 0 0 1
+ 1 0 0 1 0 1 1 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 0 0 0 0
+ 1 1 1 0 0 0 0 1 0 1 1 0 1 0 0 0 0 1 0 0 1 0 1 0 0 0 1 0 1 0 1 0 0 1 0 1 0
+ 0 0 1 0 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1 1 0 1 0 0
+ 0]
+Features selected (indices): [  1   3   5   6   7   8  10  14  15  16  18  23  25  26  27  28  30  31
+  32  34  38  49  50  51  52  53  55  56  61  63  66  67  69  70  72  74
+  75  79  81  83  86  89  90  91  92  93  98 100 101 102 103 104 105 107
+ 108 116 117 120 122 126 127 131 133 140 144 145 154 157 158 159 160 161
+ 163 171 172 175 176 177 180 181 184 185 189 190 195 197 200 206 210 212
+ 213 215 218 219 220 224 228 230 235 238 245 249 250 252 253 256 259 261
+ 262 265 267 268 271 279 280 283 285 287 289 290 291 292 293 294 296 298
+ 300 301 303 305 309 312 314 320 321 322 323 326 327 328 329 330 331 332
+ 336 337 339 342 345 346 350 353 357 360 362 365 366 368 369 372 378 380
+ 385 386 388 389 390 391 397 403 405 410 411 420 421 422 423 424 425 426
+ 427 428 431 432 434 436 444 447 448 450 452 454 457 458 460 461 462 464
+ 465 471 472 477 479 480 481 482 488 491 497 503 504 514 515 517 518 521
+ 524 527 528 534 535 538 540 544 546 548 550 556 558 561 562 563 564 565
+ 566 569 574 575 576 577 582 583 584 585 586 589 590 591 592 595 602 603
+ 607 610 611 614 616 618 619 623 624 629 630 632 634 636 639 642 643 644
+ 645 648 649 650 651 653 656 657 658 661 666 668 671 673 674 675 678 680
+ 681 682 685 688 689 690 692 695 696 697 698 699 703 705 706 708 709 713
+ 714 715 718 719 723 726 729 738 739 740 741 742 744 746 747 748 750 752
+ 754 755 756 757 758 759 760 761 764 766 768 769 770 772 774 776 777 778
+ 781 783 786 788 791 792 793 795 797 798 801 803 804 805 807 809 814 815
+ 817 820 821 824 828 830 832 833 834 839 842 844 847 850 859 862 864 865
+ 870 871 873 875 879 883 884 887 888 891 893 894 897 899 902 903 904 914
+ 915 916 918 919 920 925 926 927 932 934 935 937 942 945 947 951 953 955
+ 958 960 964 967 968 970 973 982 984 985 988 989 993 994 996]
+Number of features selected: 429 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  6
+Random seed: 47
+Generation 1: Best Fitness = 7245.7196, Mutation Rate = 0.240000, Features Selected: 466 out of 1000
+Generation 2: Best Fitness = 7245.7196, Mutation Rate = 0.232907, Features Selected: 466 out of 1000
+Generation 3: Best Fitness = 7245.7196, Mutation Rate = 0.226023, Features Selected: 466 out of 1000
+Generation 4: Best Fitness = 7254.8590, Mutation Rate = 0.219343, Features Selected: 459 out of 1000
+Generation 5: Best Fitness = 7254.8590, Mutation Rate = 0.212861, Features Selected: 459 out of 1000
+Generation 6: Best Fitness = 7254.8590, Mutation Rate = 0.206570, Features Selected: 459 out of 1000
+Generation 7: Best Fitness = 7269.5825, Mutation Rate = 0.200465, Features Selected: 455 out of 1000
+Generation 8: Best Fitness = 7297.0095, Mutation Rate = 0.194540, Features Selected: 451 out of 1000
+Generation 9: Best Fitness = 7297.0095, Mutation Rate = 0.188791, Features Selected: 451 out of 1000
+Generation 10: Best Fitness = 7317.2111, Mutation Rate = 0.183211, Features Selected: 458 out of 1000
+Generation 11: Best Fitness = 7317.2111, Mutation Rate = 0.177796, Features Selected: 458 out of 1000
+Generation 12: Best Fitness = 7317.2111, Mutation Rate = 0.172542, Features Selected: 458 out of 1000
+Generation 13: Best Fitness = 7340.7697, Mutation Rate = 0.167442, Features Selected: 455 out of 1000
+Generation 14: Best Fitness = 7373.6069, Mutation Rate = 0.162494, Features Selected: 450 out of 1000
+Generation 15: Best Fitness = 7373.6069, Mutation Rate = 0.157691, Features Selected: 450 out of 1000
+Generation 16: Best Fitness = 7373.6069, Mutation Rate = 0.153031, Features Selected: 450 out of 1000
+Generation 17: Best Fitness = 7373.6069, Mutation Rate = 0.148508, Features Selected: 450 out of 1000
+Generation 18: Best Fitness = 7373.6069, Mutation Rate = 0.144119, Features Selected: 450 out of 1000
+Generation 19: Best Fitness = 7373.6069, Mutation Rate = 0.139860, Features Selected: 450 out of 1000
+Generation 20: Best Fitness = 7373.6069, Mutation Rate = 0.135726, Features Selected: 450 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 21: Best Fitness = 7373.6069, Mutation Rate = 0.240000, Features Selected: 450 out of 1000
+Generation 22: Best Fitness = 7373.6069, Mutation Rate = 0.220000, Features Selected: 450 out of 1000
+Generation 23: Best Fitness = 7373.6069, Mutation Rate = 0.200000, Features Selected: 450 out of 1000
+Generation 24: Best Fitness = 7380.7697, Mutation Rate = 0.180000, Features Selected: 447 out of 1000
+Generation 25: Best Fitness = 7380.7697, Mutation Rate = 0.180000, Features Selected: 447 out of 1000
+Generation 26: Best Fitness = 7380.7697, Mutation Rate = 0.160000, Features Selected: 447 out of 1000
+Generation 27: Best Fitness = 7385.7697, Mutation Rate = 0.140000, Features Selected: 446 out of 1000
+Generation 28: Best Fitness = 7385.7697, Mutation Rate = 0.140000, Features Selected: 446 out of 1000
+Generation 29: Best Fitness = 7394.5825, Mutation Rate = 0.120000, Features Selected: 430 out of 1000
+Generation 30: Best Fitness = 7394.5825, Mutation Rate = 0.120000, Features Selected: 430 out of 1000
+Generation 31: Best Fitness = 7394.8086, Mutation Rate = 0.100000, Features Selected: 449 out of 1000
+Generation 32: Best Fitness = 7394.8086, Mutation Rate = 0.100000, Features Selected: 449 out of 1000
+Generation 33: Best Fitness = 7394.8086, Mutation Rate = 0.080000, Features Selected: 449 out of 1000
+Generation 34: Best Fitness = 7397.7895, Mutation Rate = 0.089178, Features Selected: 450 out of 1000
+Generation 35: Best Fitness = 7403.1593, Mutation Rate = 0.086543, Features Selected: 433 out of 1000
+Generation 36: Best Fitness = 7429.0071, Mutation Rate = 0.083985, Features Selected: 447 out of 1000
+Generation 37: Best Fitness = 7443.3679, Mutation Rate = 0.081503, Features Selected: 449 out of 1000
+Generation 38: Best Fitness = 7443.3679, Mutation Rate = 0.080000, Features Selected: 449 out of 1000
+Generation 39: Best Fitness = 7443.3679, Mutation Rate = 0.080000, Features Selected: 449 out of 1000
+Generation 40: Best Fitness = 7443.3679, Mutation Rate = 0.080000, Features Selected: 449 out of 1000
+Generation 41: Best Fitness = 7444.0071, Mutation Rate = 0.080000, Features Selected: 444 out of 1000
+Generation 42: Best Fitness = 7444.0071, Mutation Rate = 0.080000, Features Selected: 444 out of 1000
+Generation 43: Best Fitness = 7464.0071, Mutation Rate = 0.080000, Features Selected: 440 out of 1000
+Generation 44: Best Fitness = 7464.0071, Mutation Rate = 0.080000, Features Selected: 440 out of 1000
+Generation 45: Best Fitness = 7464.0071, Mutation Rate = 0.080000, Features Selected: 440 out of 1000
+Generation 46: Best Fitness = 7464.0071, Mutation Rate = 0.080000, Features Selected: 440 out of 1000
+Generation 47: Best Fitness = 7464.0071, Mutation Rate = 0.080000, Features Selected: 440 out of 1000
+Generation 48: Best Fitness = 7464.0071, Mutation Rate = 0.080000, Features Selected: 440 out of 1000
+Generation 49: Best Fitness = 7464.0071, Mutation Rate = 0.080000, Features Selected: 440 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 50: Best Fitness = 7464.8086, Mutation Rate = 0.240000, Features Selected: 435 out of 1000
+Generation 51: Best Fitness = 7464.8086, Mutation Rate = 0.240000, Features Selected: 435 out of 1000
+Generation 52: Best Fitness = 7474.0071, Mutation Rate = 0.220000, Features Selected: 438 out of 1000
+Generation 53: Best Fitness = 7479.0071, Mutation Rate = 0.220000, Features Selected: 437 out of 1000
+Generation 54: Best Fitness = 7479.0071, Mutation Rate = 0.220000, Features Selected: 437 out of 1000
+Generation 55: Best Fitness = 7488.3679, Mutation Rate = 0.200000, Features Selected: 440 out of 1000
+Generation 56: Best Fitness = 7488.3679, Mutation Rate = 0.200000, Features Selected: 440 out of 1000
+Generation 57: Best Fitness = 7498.6069, Mutation Rate = 0.180000, Features Selected: 425 out of 1000
+Generation 58: Best Fitness = 7498.6069, Mutation Rate = 0.180000, Features Selected: 425 out of 1000
+Generation 59: Best Fitness = 7498.6069, Mutation Rate = 0.160000, Features Selected: 425 out of 1000
+Generation 60: Best Fitness = 7502.1353, Mutation Rate = 0.140000, Features Selected: 434 out of 1000
+Generation 61: Best Fitness = 7514.0071, Mutation Rate = 0.140000, Features Selected: 430 out of 1000
+Generation 62: Best Fitness = 7514.0071, Mutation Rate = 0.140000, Features Selected: 430 out of 1000
+Generation 63: Best Fitness = 7522.5887, Mutation Rate = 0.120000, Features Selected: 443 out of 1000
+Generation 64: Best Fitness = 7522.5887, Mutation Rate = 0.120000, Features Selected: 443 out of 1000
+Generation 65: Best Fitness = 7522.5887, Mutation Rate = 0.100000, Features Selected: 443 out of 1000
+Generation 66: Best Fitness = 7544.0071, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 67: Best Fitness = 7544.0071, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 68: Best Fitness = 7544.0071, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 69: Best Fitness = 7544.0071, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 70: Best Fitness = 7544.0071, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 71: Best Fitness = 7544.0071, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 72: Best Fitness = 7544.0071, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 73: Best Fitness = 7544.0071, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 74: Best Fitness = 7544.0071, Mutation Rate = 0.240000, Features Selected: 424 out of 1000
+Generation 75: Best Fitness = 7544.0071, Mutation Rate = 0.220000, Features Selected: 424 out of 1000
+Generation 76: Best Fitness = 7544.0071, Mutation Rate = 0.200000, Features Selected: 424 out of 1000
+Generation 77: Best Fitness = 7544.0071, Mutation Rate = 0.180000, Features Selected: 424 out of 1000
+Generation 78: Best Fitness = 7568.3679, Mutation Rate = 0.160000, Features Selected: 424 out of 1000
+Generation 79: Best Fitness = 7568.3679, Mutation Rate = 0.160000, Features Selected: 424 out of 1000
+Generation 80: Best Fitness = 7568.3679, Mutation Rate = 0.140000, Features Selected: 424 out of 1000
+Generation 81: Best Fitness = 7568.3679, Mutation Rate = 0.120000, Features Selected: 424 out of 1000
+Generation 82: Best Fitness = 7582.8941, Mutation Rate = 0.100000, Features Selected: 426 out of 1000
+Generation 83: Best Fitness = 7582.8941, Mutation Rate = 0.100000, Features Selected: 426 out of 1000
+Generation 84: Best Fitness = 7582.8941, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 85: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 86: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 87: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 88: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 89: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 90: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 91: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 92: Best Fitness = 7602.8941, Mutation Rate = 0.240000, Features Selected: 422 out of 1000
+Generation 93: Best Fitness = 7602.8941, Mutation Rate = 0.220000, Features Selected: 422 out of 1000
+Generation 94: Best Fitness = 7602.8941, Mutation Rate = 0.200000, Features Selected: 422 out of 1000
+Generation 95: Best Fitness = 7602.8941, Mutation Rate = 0.180000, Features Selected: 422 out of 1000
+Generation 96: Best Fitness = 7602.8941, Mutation Rate = 0.160000, Features Selected: 422 out of 1000
+Generation 97: Best Fitness = 7602.8941, Mutation Rate = 0.140000, Features Selected: 422 out of 1000
+Generation 98: Best Fitness = 7602.8941, Mutation Rate = 0.120000, Features Selected: 422 out of 1000
+Generation 99: Best Fitness = 7602.8941, Mutation Rate = 0.100000, Features Selected: 422 out of 1000
+Generation 100: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 101: Best Fitness = 7602.8941, Mutation Rate = 0.240000, Features Selected: 422 out of 1000
+Generation 102: Best Fitness = 7602.8941, Mutation Rate = 0.220000, Features Selected: 422 out of 1000
+Generation 103: Best Fitness = 7602.8941, Mutation Rate = 0.200000, Features Selected: 422 out of 1000
+Generation 104: Best Fitness = 7602.8941, Mutation Rate = 0.180000, Features Selected: 422 out of 1000
+Generation 105: Best Fitness = 7602.8941, Mutation Rate = 0.160000, Features Selected: 422 out of 1000
+Generation 106: Best Fitness = 7602.8941, Mutation Rate = 0.140000, Features Selected: 422 out of 1000
+Generation 107: Best Fitness = 7602.8941, Mutation Rate = 0.120000, Features Selected: 422 out of 1000
+Generation 108: Best Fitness = 7602.8941, Mutation Rate = 0.100000, Features Selected: 422 out of 1000
+Generation 109: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 110: Best Fitness = 7602.8941, Mutation Rate = 0.240000, Features Selected: 422 out of 1000
+Generation 111: Best Fitness = 7602.8941, Mutation Rate = 0.220000, Features Selected: 422 out of 1000
+Generation 112: Best Fitness = 7602.8941, Mutation Rate = 0.200000, Features Selected: 422 out of 1000
+Generation 113: Best Fitness = 7602.8941, Mutation Rate = 0.180000, Features Selected: 422 out of 1000
+Generation 114: Best Fitness = 7602.8941, Mutation Rate = 0.160000, Features Selected: 422 out of 1000
+Generation 115: Best Fitness = 7602.8941, Mutation Rate = 0.140000, Features Selected: 422 out of 1000
+Generation 116: Best Fitness = 7602.8941, Mutation Rate = 0.120000, Features Selected: 422 out of 1000
+Generation 117: Best Fitness = 7602.8941, Mutation Rate = 0.100000, Features Selected: 422 out of 1000
+Generation 118: Best Fitness = 7602.8941, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 119: Best Fitness = 7602.8941, Mutation Rate = 0.240000, Features Selected: 422 out of 1000
+Generation 120: Best Fitness = 7602.8941, Mutation Rate = 0.220000, Features Selected: 422 out of 1000
+Generation 121: Best Fitness = 7602.8941, Mutation Rate = 0.200000, Features Selected: 422 out of 1000
+Generation 122: Best Fitness = 7602.8941, Mutation Rate = 0.180000, Features Selected: 422 out of 1000
+Generation 123: Best Fitness = 7602.8941, Mutation Rate = 0.160000, Features Selected: 422 out of 1000
+Generation 124: Best Fitness = 7602.8941, Mutation Rate = 0.140000, Features Selected: 422 out of 1000
+Generation 125: Best Fitness = 7602.8941, Mutation Rate = 0.120000, Features Selected: 422 out of 1000
+
+----- Final Report -----
+Best Fitness: 7602.8941
+Best individual (bit string): [1 1 0 0 1 0 0 1 1 1 1 0 0 1 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 0 1 1 0 0 0 1 0
+ 0 1 0 1 0 1 0 1 0 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 0
+ 1 0 0 0 1 1 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0 1 1 1 0 1 1 0 0 0 0
+ 1 0 0 0 1 1 0 0 0 1 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 0 1 0 1 0 0 1 0 1 0 1 0
+ 1 1 1 0 0 0 0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 1 0 0 1 0 0 1 1 0 0 0 0 0 0 1 0
+ 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0 0 0 1 1 1 0 1 0 0 0 1 1 1
+ 0 0 0 0 0 0 0 1 0 0 1 1 0 1 1 0 1 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 1 0 0 0 0
+ 0 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 1 1 0 0 1 1 1 1 0 0 1 1
+ 0 0 0 1 1 1 0 1 0 1 0 0 1 1 0 1 1 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 1 0 0 1 0
+ 0 1 0 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 1 1 0 0 0 1 0 0 0 1 0 1 1 1 1 0 0
+ 1 0 0 1 0 0 1 0 0 0 0 1 0 0 1 1 1 0 0 1 0 0 0 1 1 0 0 1 1 1 1 1 1 0 0 1 0
+ 0 0 0 0 0 1 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 0 1 0 1 0 1
+ 1 1 0 0 0 1 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 0 0 0 0 0 1
+ 0 1 0 1 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1
+ 1 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 1 1 1 0 1 0 1 1 1 0 0 0 1 1 0
+ 0 0 1 1 1 1 0 0 1 0 0 1 1 0 1 0 0 1 0 1 0 0 1 0 0 1 1 1 1 0 0 0 0 1 0 0 1
+ 1 0 1 1 1 0 1 0 0 1 0 0 0 1 0 1 1 0 1 0 1 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 1
+ 0 1 0 1 1 1 0 0 0 0 0 1 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 0 1 0 1 1 0 1 0 0 0
+ 1 1 1 0 0 1 0 0 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1 0 0 0 1 1 0 0 1 1 0 0
+ 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 1 0 1 0 0 0 0
+ 1 0 1 0 0 1 1 1 1 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0 1 0 0
+ 0 1 0 1 1 0 0 0 1 0 1 0 0 1 0 0 1 1 0 1 1 1 0 0 0 1 1 0 0 0 0 1 0 1 1 0 1
+ 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 0 1
+ 0 0 1 0 0 1 0 1 0 1 1 1 0 0 0 1 1 0 1 0 1 0 1 1 0 0 1 1 1 0 0 1 0 0 1 0 0
+ 1 1 1 0 1 1 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 1 1 0 0 1 0 0 1 1 0 1 0 0 1 0
+ 1 1 1 1 0 1 1 1 0 0 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 0 0 1 1 1 0 0 0 1 1 1 1
+ 1]
+Features selected (indices): [  0   1   4   7   8   9  10  13  15  16  17  20  23  24  30  31  35  38
+  40  42  44  47  52  53  54  55  57  62  65  69  70  72  74  78  79  81
+  87  91  93  95  99 101 102 103 105 106 111 115 116 120 121 122 124 127
+ 128 129 131 133 134 135 137 139 142 144 146 148 149 150 156 159 160 161
+ 162 163 165 166 167 169 172 175 176 183 185 193 198 200 204 205 206 211
+ 212 213 215 219 220 221 229 232 233 235 236 238 240 242 243 245 246 247
+ 248 249 251 252 254 261 262 264 266 267 274 276 279 280 284 285 288 289
+ 290 291 294 295 299 300 301 303 305 308 309 311 312 315 317 318 325 328
+ 331 334 336 339 341 342 345 346 348 351 355 362 363 364 379 381 384 388
+ 390 391 395 399 401 402 403 404 407 410 413 418 421 422 423 426 430 431
+ 434 435 436 437 438 439 442 449 450 451 453 457 458 465 469 470 473 474
+ 476 478 480 481 482 486 490 491 492 496 502 504 509 511 517 519 521 524
+ 526 528 534 537 538 539 542 543 552 554 555 556 560 569 572 573 574 575
+ 577 578 579 581 583 584 585 589 590 594 595 596 597 600 603 604 606 609
+ 611 614 617 618 619 620 625 628 629 631 632 633 635 638 642 644 645 647
+ 649 651 652 656 657 658 659 665 667 669 670 671 677 679 680 681 684 687
+ 688 694 696 697 699 703 704 705 708 711 712 716 721 723 724 726 728 732
+ 733 736 737 746 749 753 755 756 757 758 760 762 763 766 770 772 777 779
+ 782 783 784 785 789 790 794 795 801 802 804 806 807 811 815 817 818 822
+ 824 827 830 831 833 834 835 839 840 845 847 848 850 855 859 873 874 875
+ 878 880 881 882 884 885 887 890 893 895 897 898 899 903 904 906 908 910
+ 911 914 915 916 919 922 925 926 927 929 930 936 939 941 942 943 947 948
+ 951 954 955 957 960 962 963 964 965 967 968 969 973 974 976 978 981 982
+ 989 990 991 995 996 997 998 999]
+Number of features selected: 422 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  7
+Random seed: 48
+Generation 1: Best Fitness = 7140.0424, Mutation Rate = 0.240000, Features Selected: 473 out of 1000
+Generation 2: Best Fitness = 7203.6069, Mutation Rate = 0.232907, Features Selected: 484 out of 1000
+Generation 3: Best Fitness = 7236.3766, Mutation Rate = 0.226023, Features Selected: 479 out of 1000
+Generation 4: Best Fitness = 7236.3766, Mutation Rate = 0.219343, Features Selected: 479 out of 1000
+Generation 5: Best Fitness = 7260.7196, Mutation Rate = 0.212861, Features Selected: 463 out of 1000
+Generation 6: Best Fitness = 7260.7196, Mutation Rate = 0.206570, Features Selected: 463 out of 1000
+Generation 7: Best Fitness = 7288.6069, Mutation Rate = 0.200465, Features Selected: 467 out of 1000
+Generation 8: Best Fitness = 7394.5845, Mutation Rate = 0.194540, Features Selected: 441 out of 1000
+Generation 9: Best Fitness = 7394.5845, Mutation Rate = 0.188791, Features Selected: 441 out of 1000
+Generation 10: Best Fitness = 7394.5845, Mutation Rate = 0.183211, Features Selected: 441 out of 1000
+Generation 11: Best Fitness = 7394.5845, Mutation Rate = 0.177796, Features Selected: 441 out of 1000
+Generation 12: Best Fitness = 7406.3766, Mutation Rate = 0.172542, Features Selected: 445 out of 1000
+Generation 13: Best Fitness = 7406.3766, Mutation Rate = 0.167442, Features Selected: 445 out of 1000
+Generation 14: Best Fitness = 7406.3766, Mutation Rate = 0.162494, Features Selected: 445 out of 1000
+Generation 15: Best Fitness = 7406.3766, Mutation Rate = 0.157691, Features Selected: 445 out of 1000
+Generation 16: Best Fitness = 7406.3766, Mutation Rate = 0.153031, Features Selected: 445 out of 1000
+Generation 17: Best Fitness = 7429.8086, Mutation Rate = 0.148508, Features Selected: 442 out of 1000
+Generation 18: Best Fitness = 7429.8086, Mutation Rate = 0.144119, Features Selected: 442 out of 1000
+Generation 19: Best Fitness = 7429.8086, Mutation Rate = 0.139860, Features Selected: 442 out of 1000
+Generation 20: Best Fitness = 7429.8086, Mutation Rate = 0.135726, Features Selected: 442 out of 1000
+Generation 21: Best Fitness = 7429.8086, Mutation Rate = 0.131715, Features Selected: 442 out of 1000
+Generation 22: Best Fitness = 7429.8086, Mutation Rate = 0.127822, Features Selected: 442 out of 1000
+Generation 23: Best Fitness = 7464.7647, Mutation Rate = 0.124044, Features Selected: 430 out of 1000
+Generation 24: Best Fitness = 7464.7647, Mutation Rate = 0.120378, Features Selected: 430 out of 1000
+Generation 25: Best Fitness = 7464.7647, Mutation Rate = 0.116821, Features Selected: 430 out of 1000
+Generation 26: Best Fitness = 7492.1353, Mutation Rate = 0.113368, Features Selected: 436 out of 1000
+Generation 27: Best Fitness = 7492.1353, Mutation Rate = 0.110017, Features Selected: 436 out of 1000
+Generation 28: Best Fitness = 7492.1353, Mutation Rate = 0.106766, Features Selected: 436 out of 1000
+Generation 29: Best Fitness = 7492.1353, Mutation Rate = 0.103611, Features Selected: 436 out of 1000
+Generation 30: Best Fitness = 7492.1353, Mutation Rate = 0.100548, Features Selected: 436 out of 1000
+Generation 31: Best Fitness = 7492.1353, Mutation Rate = 0.097577, Features Selected: 436 out of 1000
+Generation 32: Best Fitness = 7492.1353, Mutation Rate = 0.094693, Features Selected: 436 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 33: Best Fitness = 7492.1353, Mutation Rate = 0.240000, Features Selected: 436 out of 1000
+Generation 34: Best Fitness = 7497.1353, Mutation Rate = 0.220000, Features Selected: 435 out of 1000
+Generation 35: Best Fitness = 7541.3285, Mutation Rate = 0.220000, Features Selected: 436 out of 1000
+Generation 36: Best Fitness = 7541.3285, Mutation Rate = 0.220000, Features Selected: 436 out of 1000
+Generation 37: Best Fitness = 7541.3285, Mutation Rate = 0.200000, Features Selected: 436 out of 1000
+Generation 38: Best Fitness = 7550.2024, Mutation Rate = 0.180000, Features Selected: 426 out of 1000
+Generation 39: Best Fitness = 7550.2024, Mutation Rate = 0.180000, Features Selected: 426 out of 1000
+Generation 40: Best Fitness = 7550.2024, Mutation Rate = 0.160000, Features Selected: 426 out of 1000
+Generation 41: Best Fitness = 7550.2024, Mutation Rate = 0.140000, Features Selected: 426 out of 1000
+Generation 42: Best Fitness = 7550.2024, Mutation Rate = 0.120000, Features Selected: 426 out of 1000
+Generation 43: Best Fitness = 7570.2024, Mutation Rate = 0.100000, Features Selected: 422 out of 1000
+Generation 44: Best Fitness = 7576.6473, Mutation Rate = 0.100000, Features Selected: 424 out of 1000
+Generation 45: Best Fitness = 7576.6473, Mutation Rate = 0.100000, Features Selected: 424 out of 1000
+Generation 46: Best Fitness = 7576.6473, Mutation Rate = 0.080000, Features Selected: 424 out of 1000
+Generation 47: Best Fitness = 7586.6473, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 48: Best Fitness = 7586.6473, Mutation Rate = 0.080000, Features Selected: 422 out of 1000
+Generation 49: Best Fitness = 7591.3285, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 50: Best Fitness = 7591.3285, Mutation Rate = 0.080000, Features Selected: 426 out of 1000
+Generation 51: Best Fitness = 7606.6473, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 52: Best Fitness = 7606.6473, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 53: Best Fitness = 7606.6473, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 54: Best Fitness = 7606.6473, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 55: Best Fitness = 7621.3285, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 56: Best Fitness = 7621.3285, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 57: Best Fitness = 7621.3285, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 58: Best Fitness = 7621.3285, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 59: Best Fitness = 7621.3285, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 60: Best Fitness = 7621.3285, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 61: Best Fitness = 7621.6473, Mutation Rate = 0.080000, Features Selected: 415 out of 1000
+Generation 62: Best Fitness = 7621.6473, Mutation Rate = 0.080000, Features Selected: 415 out of 1000
+Generation 63: Best Fitness = 7652.1353, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 64: Best Fitness = 7652.1353, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 65: Best Fitness = 7652.1353, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 66: Best Fitness = 7655.2024, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 67: Best Fitness = 7656.6473, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 68: Best Fitness = 7656.6473, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 69: Best Fitness = 7656.6473, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 70: Best Fitness = 7661.6473, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 71: Best Fitness = 7661.6473, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 72: Best Fitness = 7661.6473, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 73: Best Fitness = 7667.1353, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 74: Best Fitness = 7667.1353, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 75: Best Fitness = 7676.6473, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 76: Best Fitness = 7676.6473, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 77: Best Fitness = 7676.6473, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 78: Best Fitness = 7676.6473, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 79: Best Fitness = 7681.6473, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 80: Best Fitness = 7691.6473, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 81: Best Fitness = 7696.6473, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 82: Best Fitness = 7696.6473, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 83: Best Fitness = 7696.6473, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 84: Best Fitness = 7696.6473, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 85: Best Fitness = 7696.6473, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 86: Best Fitness = 7696.6473, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 87: Best Fitness = 7696.6473, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 88: Best Fitness = 7701.6473, Mutation Rate = 0.240000, Features Selected: 399 out of 1000
+Generation 89: Best Fitness = 7701.6473, Mutation Rate = 0.240000, Features Selected: 399 out of 1000
+Generation 90: Best Fitness = 7701.6473, Mutation Rate = 0.220000, Features Selected: 399 out of 1000
+Generation 91: Best Fitness = 7701.6473, Mutation Rate = 0.200000, Features Selected: 399 out of 1000
+Generation 92: Best Fitness = 7701.6473, Mutation Rate = 0.180000, Features Selected: 399 out of 1000
+Generation 93: Best Fitness = 7701.6473, Mutation Rate = 0.160000, Features Selected: 399 out of 1000
+Generation 94: Best Fitness = 7701.6473, Mutation Rate = 0.140000, Features Selected: 399 out of 1000
+Generation 95: Best Fitness = 7701.6473, Mutation Rate = 0.120000, Features Selected: 399 out of 1000
+Generation 96: Best Fitness = 7701.6473, Mutation Rate = 0.100000, Features Selected: 399 out of 1000
+Generation 97: Best Fitness = 7701.6473, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 98: Best Fitness = 7701.6473, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 99: Best Fitness = 7701.6473, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 100: Best Fitness = 7701.6473, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 101: Best Fitness = 7701.6473, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 102: Best Fitness = 7701.6473, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Generation 103: Best Fitness = 7701.6473, Mutation Rate = 0.080000, Features Selected: 399 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 104: Best Fitness = 7701.6473, Mutation Rate = 0.240000, Features Selected: 399 out of 1000
+Generation 105: Best Fitness = 7701.6473, Mutation Rate = 0.220000, Features Selected: 399 out of 1000
+Generation 106: Best Fitness = 7701.6473, Mutation Rate = 0.200000, Features Selected: 399 out of 1000
+Generation 107: Best Fitness = 7701.6473, Mutation Rate = 0.180000, Features Selected: 399 out of 1000
+Generation 108: Best Fitness = 7706.6473, Mutation Rate = 0.160000, Features Selected: 398 out of 1000
+Generation 109: Best Fitness = 7706.6473, Mutation Rate = 0.160000, Features Selected: 398 out of 1000
+Generation 110: Best Fitness = 7706.6473, Mutation Rate = 0.140000, Features Selected: 398 out of 1000
+Generation 111: Best Fitness = 7706.6473, Mutation Rate = 0.120000, Features Selected: 398 out of 1000
+Generation 112: Best Fitness = 7706.6473, Mutation Rate = 0.100000, Features Selected: 398 out of 1000
+Generation 113: Best Fitness = 7706.6473, Mutation Rate = 0.080000, Features Selected: 398 out of 1000
+Generation 114: Best Fitness = 7706.6473, Mutation Rate = 0.080000, Features Selected: 398 out of 1000
+Generation 115: Best Fitness = 7706.6473, Mutation Rate = 0.080000, Features Selected: 398 out of 1000
+Generation 116: Best Fitness = 7706.6473, Mutation Rate = 0.080000, Features Selected: 398 out of 1000
+Generation 117: Best Fitness = 7706.6473, Mutation Rate = 0.080000, Features Selected: 398 out of 1000
+Generation 118: Best Fitness = 7706.6473, Mutation Rate = 0.080000, Features Selected: 398 out of 1000
+Generation 119: Best Fitness = 7706.6473, Mutation Rate = 0.080000, Features Selected: 398 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 120: Best Fitness = 7706.6473, Mutation Rate = 0.240000, Features Selected: 398 out of 1000
+Generation 121: Best Fitness = 7706.6473, Mutation Rate = 0.220000, Features Selected: 398 out of 1000
+Generation 122: Best Fitness = 7706.6473, Mutation Rate = 0.200000, Features Selected: 398 out of 1000
+Generation 123: Best Fitness = 7706.6473, Mutation Rate = 0.180000, Features Selected: 398 out of 1000
+Generation 124: Best Fitness = 7706.6473, Mutation Rate = 0.160000, Features Selected: 398 out of 1000
+Generation 125: Best Fitness = 7706.6473, Mutation Rate = 0.140000, Features Selected: 398 out of 1000
+
+----- Final Report -----
+Best Fitness: 7706.6473
+Best individual (bit string): [1 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 1 1 1 0 1 1 1 0 0 1
+ 1 1 1 1 0 0 0 1 0 0 1 1 1 0 1 0 1 1 0 0 1 0 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0
+ 0 0 0 0 1 1 0 0 1 1 0 1 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 1 1 1 0 1
+ 0 0 1 1 1 1 0 0 0 1 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0
+ 0 0 0 1 0 1 1 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 1 1 0
+ 0 1 0 1 1 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0
+ 1 1 0 0 0 1 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0 1 1 0 0 0 1 1 0 0 0 1 0 1 0 1
+ 1 0 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 1 0 0 1 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 1
+ 1 0 0 1 1 0 1 0 1 1 0 1 0 1 1 1 0 1 0 0 0 1 1 1 0 1 0 0 0 1 0 0 0 1 1 0 1
+ 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0
+ 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1
+ 0 0 1 0 0 0 0 0 1 1 1 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 1 1 0
+ 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+ 1 1 1 1 0 0 1 0 1 1 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1
+ 1 0 0 1 1 1 0 1 1 0 0 1 1 0 1 0 1 0 0 1 1 0 0 0 1 1 0 1 1 0 0 1 1 0 0 0 1
+ 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 1 1 1 0 1 0 0 0 0 0 1 0 1 1 1 0 1 1 1 0 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 1 0 0 1 1 0 1 0 0 1 0 0 0 0 0 1 1
+ 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0
+ 1 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 0 0 1 0 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 0 0
+ 1 0 1 0 0 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 1
+ 0 0 0 1 0 1 1 1 1 0 0 1 0 1 1 0 1 1 0 1 0 1 0 1 1 1 0 1 0 1 1 0 1 1 0 0 1
+ 1 1 0 1 0 1 0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 1 1 1 0 1 0 1 0 1 1 0 0 1
+ 0 1 0 0 0 0 0 1 0 1 1 1 1 0 1 1 0 1 1 0 1 0 1 0 1 0 1 1 0 1 0 1 1 0 0 0 1
+ 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1 1
+ 1 0 1 1 0 1 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0
+ 0 0 1 0 1 1 0 0 0 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0
+ 1 0 1 0 1 1 0 1 1 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0
+ 0]
+Features selected (indices): [  0   1   2   5   6   8  11  12  15  21  22  25  26  27  28  29  31  32
+  33  36  37  38  39  40  44  47  48  49  51  53  54  57  59  60  62  64
+  66  68  70  71  78  79  82  83  85  87  89  93 100 101 102 103 106 107
+ 108 110 113 114 115 116 120 122 123 126 130 131 136 138 145 151 153 154
+ 161 162 163 166 172 173 176 177 182 183 186 188 189 194 197 201 202 203
+ 204 206 207 208 209 212 222 223 227 233 236 237 241 244 245 249 250 254
+ 256 258 259 266 268 269 273 276 279 281 283 284 286 291 292 293 295 296
+ 299 300 302 304 305 307 309 310 311 313 317 318 319 321 325 329 330 332
+ 333 336 337 345 354 357 360 364 368 372 374 377 378 379 382 384 387 388
+ 389 397 401 405 406 409 415 416 417 421 423 424 425 431 432 434 437 441
+ 442 448 452 456 460 466 467 478 481 482 483 484 487 489 490 491 493 495
+ 496 497 498 508 512 517 518 521 522 523 525 526 529 530 532 534 537 538
+ 542 543 545 546 549 550 554 557 559 561 567 570 571 572 574 580 582 583
+ 584 586 587 588 590 591 603 604 606 608 610 611 612 615 616 618 621 627
+ 628 629 633 635 642 644 645 648 649 659 661 666 667 670 671 674 676 679
+ 684 686 687 691 694 696 697 698 703 705 708 712 713 714 716 723 727 731
+ 738 739 743 745 746 747 748 751 753 754 756 757 759 761 763 764 765 767
+ 769 770 772 773 776 777 778 780 782 788 790 794 795 800 801 802 803 805
+ 807 809 810 813 815 821 823 824 825 826 828 829 831 832 834 836 838 840
+ 841 843 845 846 850 852 853 859 861 867 868 869 870 871 873 876 883 886
+ 887 888 890 891 893 895 899 902 907 911 913 920 922 927 929 930 934 935
+ 937 938 939 941 942 947 955 958 962 964 966 967 969 970 974 979 980 986
+ 993 995]
+Number of features selected: 398 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  8
+Random seed: 49
+Generation 1: Best Fitness = 7283.4513, Mutation Rate = 0.240000, Features Selected: 449 out of 1000
+Generation 2: Best Fitness = 7283.4513, Mutation Rate = 0.232907, Features Selected: 449 out of 1000
+Generation 3: Best Fitness = 7283.4513, Mutation Rate = 0.226023, Features Selected: 449 out of 1000
+Generation 4: Best Fitness = 7303.6069, Mutation Rate = 0.219343, Features Selected: 464 out of 1000
+Generation 5: Best Fitness = 7303.6069, Mutation Rate = 0.212861, Features Selected: 464 out of 1000
+Generation 6: Best Fitness = 7318.4513, Mutation Rate = 0.206570, Features Selected: 442 out of 1000
+Generation 7: Best Fitness = 7342.7895, Mutation Rate = 0.200465, Features Selected: 461 out of 1000
+Generation 8: Best Fitness = 7342.7895, Mutation Rate = 0.194540, Features Selected: 461 out of 1000
+Generation 9: Best Fitness = 7342.7895, Mutation Rate = 0.188791, Features Selected: 461 out of 1000
+Generation 10: Best Fitness = 7346.8875, Mutation Rate = 0.183211, Features Selected: 449 out of 1000
+Generation 11: Best Fitness = 7346.8875, Mutation Rate = 0.177796, Features Selected: 449 out of 1000
+Generation 12: Best Fitness = 7346.8875, Mutation Rate = 0.172542, Features Selected: 449 out of 1000
+Generation 13: Best Fitness = 7359.5825, Mutation Rate = 0.167442, Features Selected: 437 out of 1000
+Generation 14: Best Fitness = 7359.5825, Mutation Rate = 0.162494, Features Selected: 437 out of 1000
+Generation 15: Best Fitness = 7413.2067, Mutation Rate = 0.157691, Features Selected: 434 out of 1000
+Generation 16: Best Fitness = 7413.2067, Mutation Rate = 0.153031, Features Selected: 434 out of 1000
+Generation 17: Best Fitness = 7413.2067, Mutation Rate = 0.148508, Features Selected: 434 out of 1000
+Generation 18: Best Fitness = 7413.2067, Mutation Rate = 0.144119, Features Selected: 434 out of 1000
+Generation 19: Best Fitness = 7413.2067, Mutation Rate = 0.139860, Features Selected: 434 out of 1000
+Generation 20: Best Fitness = 7413.2067, Mutation Rate = 0.135726, Features Selected: 434 out of 1000
+Generation 21: Best Fitness = 7428.6069, Mutation Rate = 0.131715, Features Selected: 439 out of 1000
+Generation 22: Best Fitness = 7447.2111, Mutation Rate = 0.127822, Features Selected: 432 out of 1000
+Generation 23: Best Fitness = 7449.8086, Mutation Rate = 0.124044, Features Selected: 438 out of 1000
+Generation 24: Best Fitness = 7449.8086, Mutation Rate = 0.120378, Features Selected: 438 out of 1000
+Generation 25: Best Fitness = 7449.8086, Mutation Rate = 0.116821, Features Selected: 438 out of 1000
+Generation 26: Best Fitness = 7449.8086, Mutation Rate = 0.113368, Features Selected: 438 out of 1000
+Generation 27: Best Fitness = 7477.7895, Mutation Rate = 0.110017, Features Selected: 434 out of 1000
+Generation 28: Best Fitness = 7477.7895, Mutation Rate = 0.106766, Features Selected: 434 out of 1000
+Generation 29: Best Fitness = 7477.7895, Mutation Rate = 0.103611, Features Selected: 434 out of 1000
+Generation 30: Best Fitness = 7506.3766, Mutation Rate = 0.100548, Features Selected: 425 out of 1000
+Generation 31: Best Fitness = 7506.3766, Mutation Rate = 0.097577, Features Selected: 425 out of 1000
+Generation 32: Best Fitness = 7506.3766, Mutation Rate = 0.094693, Features Selected: 425 out of 1000
+Generation 33: Best Fitness = 7506.3766, Mutation Rate = 0.091894, Features Selected: 425 out of 1000
+Generation 34: Best Fitness = 7506.3766, Mutation Rate = 0.089178, Features Selected: 425 out of 1000
+Generation 35: Best Fitness = 7525.7060, Mutation Rate = 0.086543, Features Selected: 426 out of 1000
+Generation 36: Best Fitness = 7525.7060, Mutation Rate = 0.083985, Features Selected: 426 out of 1000
+Generation 37: Best Fitness = 7525.7060, Mutation Rate = 0.081503, Features Selected: 426 out of 1000
+Generation 38: Best Fitness = 7563.6069, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 39: Best Fitness = 7563.6069, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 40: Best Fitness = 7563.6069, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 41: Best Fitness = 7573.6069, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 42: Best Fitness = 7573.6069, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 43: Best Fitness = 7573.6069, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 44: Best Fitness = 7574.0071, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 45: Best Fitness = 7574.0071, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 46: Best Fitness = 7574.0071, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 47: Best Fitness = 7574.0071, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 48: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 49: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 50: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 51: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 52: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 53: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 54: Best Fitness = 7582.7895, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 55: Best Fitness = 7589.0071, Mutation Rate = 0.240000, Features Selected: 415 out of 1000
+Generation 56: Best Fitness = 7597.7895, Mutation Rate = 0.240000, Features Selected: 410 out of 1000
+Generation 57: Best Fitness = 7604.0071, Mutation Rate = 0.240000, Features Selected: 412 out of 1000
+Generation 58: Best Fitness = 7604.0071, Mutation Rate = 0.240000, Features Selected: 412 out of 1000
+Generation 59: Best Fitness = 7604.0071, Mutation Rate = 0.220000, Features Selected: 412 out of 1000
+Generation 60: Best Fitness = 7604.0071, Mutation Rate = 0.200000, Features Selected: 412 out of 1000
+Generation 61: Best Fitness = 7605.7697, Mutation Rate = 0.180000, Features Selected: 402 out of 1000
+Generation 62: Best Fitness = 7605.7697, Mutation Rate = 0.180000, Features Selected: 402 out of 1000
+Generation 63: Best Fitness = 7605.7697, Mutation Rate = 0.160000, Features Selected: 402 out of 1000
+Generation 64: Best Fitness = 7605.7697, Mutation Rate = 0.140000, Features Selected: 402 out of 1000
+Generation 65: Best Fitness = 7605.7697, Mutation Rate = 0.120000, Features Selected: 402 out of 1000
+Generation 66: Best Fitness = 7605.7697, Mutation Rate = 0.100000, Features Selected: 402 out of 1000
+Generation 67: Best Fitness = 7605.7697, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 68: Best Fitness = 7605.7697, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 69: Best Fitness = 7605.7697, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 70: Best Fitness = 7607.7895, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 71: Best Fitness = 7607.7895, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 72: Best Fitness = 7607.7895, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 73: Best Fitness = 7607.7895, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 74: Best Fitness = 7607.7895, Mutation Rate = 0.080000, Features Selected: 408 out of 1000
+Generation 75: Best Fitness = 7612.7895, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 76: Best Fitness = 7612.7895, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 77: Best Fitness = 7612.7895, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 78: Best Fitness = 7612.7895, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 79: Best Fitness = 7624.8086, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 80: Best Fitness = 7629.0071, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 81: Best Fitness = 7629.0071, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 82: Best Fitness = 7629.0071, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 83: Best Fitness = 7629.0071, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 84: Best Fitness = 7634.0071, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 85: Best Fitness = 7634.0071, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 86: Best Fitness = 7634.8086, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 87: Best Fitness = 7644.0071, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 88: Best Fitness = 7644.0071, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 89: Best Fitness = 7649.0071, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 90: Best Fitness = 7649.0071, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 91: Best Fitness = 7649.0071, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 92: Best Fitness = 7649.0071, Mutation Rate = 0.080000, Features Selected: 403 out of 1000
+Generation 93: Best Fitness = 7654.0071, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 94: Best Fitness = 7654.0071, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 95: Best Fitness = 7654.0071, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 96: Best Fitness = 7654.0071, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 97: Best Fitness = 7654.0071, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 98: Best Fitness = 7654.0071, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 99: Best Fitness = 7654.0071, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 100: Best Fitness = 7654.0071, Mutation Rate = 0.240000, Features Selected: 402 out of 1000
+Generation 101: Best Fitness = 7659.0071, Mutation Rate = 0.220000, Features Selected: 401 out of 1000
+Generation 102: Best Fitness = 7664.0071, Mutation Rate = 0.220000, Features Selected: 400 out of 1000
+Generation 103: Best Fitness = 7664.0071, Mutation Rate = 0.220000, Features Selected: 400 out of 1000
+Generation 104: Best Fitness = 7664.0071, Mutation Rate = 0.200000, Features Selected: 400 out of 1000
+Generation 105: Best Fitness = 7664.0071, Mutation Rate = 0.180000, Features Selected: 400 out of 1000
+Generation 106: Best Fitness = 7664.0071, Mutation Rate = 0.160000, Features Selected: 400 out of 1000
+Generation 107: Best Fitness = 7664.0071, Mutation Rate = 0.140000, Features Selected: 400 out of 1000
+Generation 108: Best Fitness = 7664.0071, Mutation Rate = 0.120000, Features Selected: 400 out of 1000
+Generation 109: Best Fitness = 7664.0071, Mutation Rate = 0.100000, Features Selected: 400 out of 1000
+Generation 110: Best Fitness = 7664.0071, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 111: Best Fitness = 7664.0071, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 112: Best Fitness = 7664.0071, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 113: Best Fitness = 7664.0071, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 114: Best Fitness = 7664.0071, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 115: Best Fitness = 7664.0071, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Generation 116: Best Fitness = 7664.0071, Mutation Rate = 0.080000, Features Selected: 400 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 117: Best Fitness = 7664.0071, Mutation Rate = 0.240000, Features Selected: 400 out of 1000
+Generation 118: Best Fitness = 7664.0071, Mutation Rate = 0.220000, Features Selected: 400 out of 1000
+Generation 119: Best Fitness = 7664.0071, Mutation Rate = 0.200000, Features Selected: 400 out of 1000
+Generation 120: Best Fitness = 7669.0071, Mutation Rate = 0.180000, Features Selected: 399 out of 1000
+Generation 121: Best Fitness = 7669.0071, Mutation Rate = 0.180000, Features Selected: 399 out of 1000
+Generation 122: Best Fitness = 7674.0071, Mutation Rate = 0.160000, Features Selected: 398 out of 1000
+Generation 123: Best Fitness = 7674.0071, Mutation Rate = 0.160000, Features Selected: 398 out of 1000
+Generation 124: Best Fitness = 7674.0071, Mutation Rate = 0.140000, Features Selected: 398 out of 1000
+Generation 125: Best Fitness = 7674.0071, Mutation Rate = 0.120000, Features Selected: 398 out of 1000
+
+----- Final Report -----
+Best Fitness: 7674.0071
+Best individual (bit string): [0 0 0 0 1 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0 1 0
+ 0 1 0 1 0 1 0 0 1 0 0 0 0 0 1 0 0 1 1 0 1 0 1 0 1 1 0 1 0 0 0 1 0 1 1 0 1
+ 0 1 0 0 0 0 1 1 0 0 0 1 0 1 0 1 0 0 0 1 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 1 1
+ 1 1 0 0 1 0 0 0 1 0 0 1 1 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1
+ 0 0 0 0 1 1 0 0 0 1 0 0 0 1 1 1 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 1 0 0 1 1 1
+ 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 1 1 0 0 1 1 1 0 0 0 1 1 0 0 0 1 0 1 0 0 0
+ 0 0 0 0 1 1 0 0 0 1 0 0 1 1 1 0 1 0 0 1 1 1 0 0 0 0 0 0 1 1 0 1 1 1 0 0 1
+ 1 0 0 1 0 1 0 0 0 1 0 1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0
+ 1 0 0 0 0 1 0 0 1 0 0 1 1 1 0 1 0 0 1 1 0 0 0 1 1 0 1 0 1 0 1 0 0 0 1 1 0
+ 1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 1 0 0 0 1 0 0 0 1 1 0 1 0 0 0 1 0 1 0 0 0 0
+ 0 1 1 0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0 0 1
+ 1 0 1 1 1 0 0 1 1 0 1 1 0 0 1 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 0 0 1 0 0 1 0
+ 1 1 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 1 1 1 1 1 0 0
+ 1 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 1 0 0 0 0 1 0 0 0 1 0 1 0 0 1 1
+ 1 1 0 0 0 0 0 1 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 0 1 0 0 1
+ 1 0 1 1 0 0 1 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 0 0 1 0 0 1 1 0 0
+ 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 1 0
+ 1 0 0 1 0 1 1 0 1 0 0 0 0 1 1 0 1 1 1 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0
+ 0 1 1 0 0 0 1 0 1 0 1 0 0 1 1 0 0 1 1 0 1 0 1 0 0 0 0 0 1 0 0 1 0 1 0 0 1
+ 1 0 0 1 0 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 1 0 0
+ 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 0 0 1 0 0 1 1 0 1 0 0 0 0 0 0 1 1 0 1
+ 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0
+ 1 1 0 1 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 1 0 0 1 1 0 1
+ 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 0 1 1 0 0 0 0 1 1
+ 0 1 1 1 1 0 1 1 0 0 0 1 0 1 0 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0
+ 0 0 0 1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 1 0 1 1 0 1 0 1 1 1
+ 1 1 0 0 0 1 0 0 0 1 0 0 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 0 0 0 1 0 1 0 1 1 1
+ 1]
+Features selected (indices): [  4   6   7   8  13  15  16  24  27  28  32  35  38  40  42  45  51  54
+  55  57  59  61  62  64  68  70  71  73  75  80  81  85  87  89  93  98
+ 100 101 102 104 109 110 111 112 115 119 122 123 124 127 128 130 142 143
+ 144 146 147 152 153 157 161 162 163 168 170 171 172 174 179 182 183 184
+ 192 195 197 199 201 202 205 206 207 211 212 216 218 226 227 231 234 235
+ 236 238 241 242 243 250 251 253 254 255 258 259 262 264 268 270 271 274
+ 275 278 285 287 288 289 290 296 301 304 307 308 309 311 314 315 319 320
+ 322 324 326 330 331 333 336 341 345 346 348 352 356 357 359 363 365 371
+ 372 376 379 384 385 386 390 395 396 397 403 406 407 409 410 411 414 415
+ 417 418 421 424 425 426 429 430 432 433 435 436 439 442 444 445 446 451
+ 452 455 463 467 470 471 473 474 475 476 477 478 481 482 484 493 494 495
+ 497 498 502 507 511 513 516 517 518 519 525 528 529 532 535 541 542 545
+ 547 549 551 554 555 557 558 561 565 566 567 568 569 570 571 572 573 579
+ 581 582 585 588 589 592 593 595 597 600 607 608 609 610 613 615 619 622
+ 624 627 629 632 634 635 637 642 643 645 646 647 652 654 655 657 664 667
+ 668 672 674 676 679 680 683 684 686 688 694 697 699 702 703 706 708 709
+ 710 711 712 715 716 717 726 728 729 730 732 737 745 750 755 756 757 760
+ 763 764 766 773 774 776 777 781 783 785 786 795 798 799 810 811 812 814
+ 815 817 822 824 825 826 827 833 835 836 842 844 847 848 850 851 860 862
+ 868 869 870 871 872 877 878 880 881 886 887 889 890 891 892 894 895 899
+ 901 904 906 907 910 915 921 928 931 933 935 944 945 946 950 952 954 955
+ 957 959 960 961 962 963 967 971 976 977 978 980 982 984 985 987 988 992
+ 994 996 997 998 999]
+Number of features selected: 401 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  9
+Random seed: 50
+Generation 1: Best Fitness = 7199.3604, Mutation Rate = 0.240000, Features Selected: 472 out of 1000
+Generation 2: Best Fitness = 7199.3604, Mutation Rate = 0.232907, Features Selected: 472 out of 1000
+Generation 3: Best Fitness = 7199.3604, Mutation Rate = 0.226023, Features Selected: 472 out of 1000
+Generation 4: Best Fitness = 7199.3604, Mutation Rate = 0.219343, Features Selected: 472 out of 1000
+Generation 5: Best Fitness = 7240.6696, Mutation Rate = 0.212861, Features Selected: 459 out of 1000
+Generation 6: Best Fitness = 7353.1593, Mutation Rate = 0.206570, Features Selected: 443 out of 1000
+Generation 7: Best Fitness = 7361.8875, Mutation Rate = 0.200465, Features Selected: 446 out of 1000
+Generation 8: Best Fitness = 7385.7697, Mutation Rate = 0.194540, Features Selected: 446 out of 1000
+Generation 9: Best Fitness = 7385.7697, Mutation Rate = 0.188791, Features Selected: 446 out of 1000
+Generation 10: Best Fitness = 7385.7697, Mutation Rate = 0.183211, Features Selected: 446 out of 1000
+Generation 11: Best Fitness = 7385.7697, Mutation Rate = 0.177796, Features Selected: 446 out of 1000
+Generation 12: Best Fitness = 7385.7697, Mutation Rate = 0.172542, Features Selected: 446 out of 1000
+Generation 13: Best Fitness = 7385.7697, Mutation Rate = 0.167442, Features Selected: 446 out of 1000
+Generation 14: Best Fitness = 7390.7697, Mutation Rate = 0.162494, Features Selected: 445 out of 1000
+Generation 15: Best Fitness = 7424.5845, Mutation Rate = 0.157691, Features Selected: 435 out of 1000
+Generation 16: Best Fitness = 7424.5845, Mutation Rate = 0.153031, Features Selected: 435 out of 1000
+Generation 17: Best Fitness = 7424.5845, Mutation Rate = 0.148508, Features Selected: 435 out of 1000
+Generation 18: Best Fitness = 7424.5845, Mutation Rate = 0.144119, Features Selected: 435 out of 1000
+Generation 19: Best Fitness = 7424.5845, Mutation Rate = 0.139860, Features Selected: 435 out of 1000
+Generation 20: Best Fitness = 7434.8086, Mutation Rate = 0.135726, Features Selected: 441 out of 1000
+Generation 21: Best Fitness = 7434.8086, Mutation Rate = 0.131715, Features Selected: 441 out of 1000
+Generation 22: Best Fitness = 7434.8086, Mutation Rate = 0.127822, Features Selected: 441 out of 1000
+Generation 23: Best Fitness = 7473.6069, Mutation Rate = 0.124044, Features Selected: 430 out of 1000
+Generation 24: Best Fitness = 7473.6069, Mutation Rate = 0.120378, Features Selected: 430 out of 1000
+Generation 25: Best Fitness = 7473.6069, Mutation Rate = 0.116821, Features Selected: 430 out of 1000
+Generation 26: Best Fitness = 7473.6069, Mutation Rate = 0.113368, Features Selected: 430 out of 1000
+Generation 27: Best Fitness = 7473.6069, Mutation Rate = 0.110017, Features Selected: 430 out of 1000
+Generation 28: Best Fitness = 7473.6069, Mutation Rate = 0.106766, Features Selected: 430 out of 1000
+Generation 29: Best Fitness = 7473.6069, Mutation Rate = 0.103611, Features Selected: 430 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 30: Best Fitness = 7473.6069, Mutation Rate = 0.240000, Features Selected: 430 out of 1000
+Generation 31: Best Fitness = 7473.6069, Mutation Rate = 0.220000, Features Selected: 430 out of 1000
+Generation 32: Best Fitness = 7485.7196, Mutation Rate = 0.200000, Features Selected: 418 out of 1000
+Generation 33: Best Fitness = 7485.7196, Mutation Rate = 0.200000, Features Selected: 418 out of 1000
+Generation 34: Best Fitness = 7485.7196, Mutation Rate = 0.180000, Features Selected: 418 out of 1000
+Generation 35: Best Fitness = 7505.7697, Mutation Rate = 0.160000, Features Selected: 422 out of 1000
+Generation 36: Best Fitness = 7505.7697, Mutation Rate = 0.160000, Features Selected: 422 out of 1000
+Generation 37: Best Fitness = 7505.7697, Mutation Rate = 0.140000, Features Selected: 422 out of 1000
+Generation 38: Best Fitness = 7506.8875, Mutation Rate = 0.120000, Features Selected: 417 out of 1000
+Generation 39: Best Fitness = 7506.8875, Mutation Rate = 0.120000, Features Selected: 417 out of 1000
+Generation 40: Best Fitness = 7506.8875, Mutation Rate = 0.100000, Features Selected: 417 out of 1000
+Generation 41: Best Fitness = 7525.7697, Mutation Rate = 0.080000, Features Selected: 418 out of 1000
+Generation 42: Best Fitness = 7535.7697, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 43: Best Fitness = 7535.7697, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 44: Best Fitness = 7535.7697, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 45: Best Fitness = 7539.8086, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 46: Best Fitness = 7539.8086, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 47: Best Fitness = 7539.8086, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 48: Best Fitness = 7544.8086, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 49: Best Fitness = 7544.8086, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 50: Best Fitness = 7569.0071, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 51: Best Fitness = 7569.0071, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 52: Best Fitness = 7569.0071, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 53: Best Fitness = 7569.0071, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 54: Best Fitness = 7569.0071, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 55: Best Fitness = 7569.8086, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 56: Best Fitness = 7569.8086, Mutation Rate = 0.080000, Features Selected: 414 out of 1000
+Generation 57: Best Fitness = 7574.8086, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 58: Best Fitness = 7574.8086, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 59: Best Fitness = 7584.0071, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 60: Best Fitness = 7584.0071, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 61: Best Fitness = 7584.0071, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 62: Best Fitness = 7584.0071, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 63: Best Fitness = 7584.0071, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 64: Best Fitness = 7608.3679, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 65: Best Fitness = 7608.3679, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 66: Best Fitness = 7608.3679, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 67: Best Fitness = 7608.3679, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 68: Best Fitness = 7608.3679, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 69: Best Fitness = 7608.3679, Mutation Rate = 0.080000, Features Selected: 416 out of 1000
+Generation 70: Best Fitness = 7623.3679, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 71: Best Fitness = 7623.3679, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 72: Best Fitness = 7623.3679, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 73: Best Fitness = 7623.3679, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 74: Best Fitness = 7623.3679, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 75: Best Fitness = 7628.3679, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 76: Best Fitness = 7628.3679, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 77: Best Fitness = 7628.3679, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 78: Best Fitness = 7628.3679, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 79: Best Fitness = 7628.3679, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 80: Best Fitness = 7628.3679, Mutation Rate = 0.080000, Features Selected: 412 out of 1000
+Generation 81: Best Fitness = 7633.3679, Mutation Rate = 0.080000, Features Selected: 411 out of 1000
+Generation 82: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 83: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 84: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 85: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 86: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 87: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Generation 88: Best Fitness = 7638.3679, Mutation Rate = 0.080000, Features Selected: 410 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 89: Best Fitness = 7643.3679, Mutation Rate = 0.240000, Features Selected: 409 out of 1000
+Generation 90: Best Fitness = 7643.3679, Mutation Rate = 0.240000, Features Selected: 409 out of 1000
+Generation 91: Best Fitness = 7643.3679, Mutation Rate = 0.220000, Features Selected: 409 out of 1000
+Generation 92: Best Fitness = 7643.3679, Mutation Rate = 0.200000, Features Selected: 409 out of 1000
+Generation 93: Best Fitness = 7643.3679, Mutation Rate = 0.180000, Features Selected: 409 out of 1000
+Generation 94: Best Fitness = 7643.3679, Mutation Rate = 0.160000, Features Selected: 409 out of 1000
+Generation 95: Best Fitness = 7643.3679, Mutation Rate = 0.140000, Features Selected: 409 out of 1000
+Generation 96: Best Fitness = 7643.3679, Mutation Rate = 0.120000, Features Selected: 409 out of 1000
+Generation 97: Best Fitness = 7643.3679, Mutation Rate = 0.100000, Features Selected: 409 out of 1000
+Generation 98: Best Fitness = 7643.3679, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 99: Best Fitness = 7643.3679, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 100: Best Fitness = 7643.3679, Mutation Rate = 0.080000, Features Selected: 409 out of 1000
+Generation 101: Best Fitness = 7653.3679, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 102: Best Fitness = 7653.3679, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 103: Best Fitness = 7653.3679, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 104: Best Fitness = 7653.3679, Mutation Rate = 0.080000, Features Selected: 407 out of 1000
+Generation 105: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 106: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 107: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 108: Best Fitness = 7658.3679, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 109: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 110: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 111: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 112: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 113: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 114: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Generation 115: Best Fitness = 7663.3679, Mutation Rate = 0.080000, Features Selected: 405 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 116: Best Fitness = 7663.3679, Mutation Rate = 0.240000, Features Selected: 405 out of 1000
+Generation 117: Best Fitness = 7663.3679, Mutation Rate = 0.220000, Features Selected: 405 out of 1000
+Generation 118: Best Fitness = 7663.3679, Mutation Rate = 0.200000, Features Selected: 405 out of 1000
+Generation 119: Best Fitness = 7663.3679, Mutation Rate = 0.180000, Features Selected: 405 out of 1000
+Generation 120: Best Fitness = 7663.3679, Mutation Rate = 0.160000, Features Selected: 405 out of 1000
+Generation 121: Best Fitness = 7668.3679, Mutation Rate = 0.140000, Features Selected: 404 out of 1000
+Generation 122: Best Fitness = 7668.3679, Mutation Rate = 0.140000, Features Selected: 404 out of 1000
+Generation 123: Best Fitness = 7668.3679, Mutation Rate = 0.120000, Features Selected: 404 out of 1000
+Generation 124: Best Fitness = 7668.3679, Mutation Rate = 0.100000, Features Selected: 404 out of 1000
+Generation 125: Best Fitness = 7668.3679, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+
+----- Final Report -----
+Best Fitness: 7668.3679
+Best individual (bit string): [0 1 0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0
+ 1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 1 1 1 0 0 0 1 0 1 0 0 1 1 0 1 0 0 1 0 0 1 0
+ 0 0 0 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 1 0 0 1 0 0 1 0 1 0 0 0 1 1 0 0
+ 0 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0
+ 0 0 1 1 0 0 1 0 1 0 1 1 1 0 1 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+ 1 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1 1 1 0 0 0 1 0 0 1 0 0 0 0 0 1 1 1 1 1
+ 1 0 0 1 0 1 1 1 1 0 1 1 0 1 1 1 1 0 1 0 1 0 0 1 0 0 1 0 0 0 1 1 0 0 1 0 1
+ 1 0 1 0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 1 0 1 0 0 0 0 1
+ 0 0 1 0 0 1 1 0 1 0 1 1 1 1 1 1 1 0 0 0 1 1 0 0 1 0 1 0 1 0 1 1 0 0 1 0 1
+ 0 1 0 0 1 1 1 1 1 0 0 1 1 0 1 0 1 0 1 0 1 1 0 1 0 0 1 0 0 0 1 1 0 1 0 0 0
+ 0 0 0 0 1 1 1 0 0 0 0 0 0 1 1 1 0 0 1 1 1 1 0 0 1 0 0 0 0 0 1 0 1 0 0 1 1
+ 0 0 0 1 0 1 0 0 0 0 0 1 0 0 0 1 0 1 0 1 1 0 1 0 1 0 1 0 1 0 1 1 0 0 1 0 0
+ 0 0 0 0 0 0 0 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0
+ 1 0 0 1 1 0 0 0 0 1 1 0 1 0 1 1 1 0 0 0 0 1 1 1 0 1 0 1 1 0 1 1 0 1 0 1 0
+ 0 1 1 0 0 1 0 0 1 0 0 0 0 1 1 1 1 0 0 1 1 0 1 0 0 0 0 0 1 0 1 1 0 0 0 1 0
+ 0 1 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 1 1 1 0 1 0 0 0 0 0 1 0 0 1 0 0 1 1 1
+ 1 1 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 0 0 0 1 1 1 1 1
+ 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 1 0 1 0 1 0 1 1 1 0 0 1 0 0
+ 0 1 0 0 0 0 0 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 0 1 0 0 0 1 1 0 0
+ 1 1 0 1 0 0 0 1 0 0 0 0 1 1 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0
+ 1 0 0 1 1 1 1 1 0 0 0 1 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 1 1 0
+ 1 0 1 1 0 0 0 1 1 1 0 1 0 0 0 1 0 1 1 1 0 0 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0
+ 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 0 1
+ 1 1 1 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0 1 0 1 0 1 0 1 1 0 1 1 1 0 0 1 0 1 0 0
+ 0 0 0 0 0 1 1 0 0 1 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 1
+ 0 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 1 1 1 1 1 0 0 0 1 0
+ 1 0 0 1 0 0 1 1 0 1 0 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0
+ 0]
+Features selected (indices): [  1   3   8   9  12  15  18  21  28  31  32  33  34  37  39  41  42  43
+  44  47  49  50  52  53  54  58  60  63  64  66  69  72  78  80  81  88
+  89  90  91  92  95  98 101 103 107 108 117 119 120 124 130 131 138 146
+ 150 151 154 156 158 159 160 162 164 165 171 174 185 187 192 198 199 200
+ 202 203 204 208 211 217 218 219 220 221 222 225 227 228 229 230 232 233
+ 235 236 237 238 240 242 245 248 252 253 256 258 259 261 263 266 273 274
+ 275 276 277 279 280 281 285 288 290 295 298 301 302 304 306 307 308 309
+ 310 311 312 316 317 320 322 324 326 327 330 332 334 337 338 339 340 341
+ 344 345 347 349 351 353 354 356 359 363 364 366 374 375 376 383 384 385
+ 388 389 390 391 394 400 402 405 406 410 412 418 422 424 426 427 429 431
+ 433 435 437 438 441 451 453 454 457 460 461 466 469 473 478 481 484 485
+ 490 491 493 495 496 497 502 503 504 506 508 509 511 512 514 516 519 520
+ 523 526 531 532 533 534 537 538 540 546 548 549 553 556 563 567 569 570
+ 573 574 575 577 583 586 589 590 591 592 593 594 598 600 604 612 613 616
+ 618 619 624 625 626 627 628 629 631 632 635 638 639 648 651 652 654 656
+ 658 659 660 663 667 673 676 678 679 682 684 685 688 689 691 695 699 700
+ 703 704 706 710 715 716 718 720 721 724 729 735 736 740 743 744 745 746
+ 747 751 752 754 756 757 760 768 769 770 771 772 774 775 777 779 780 784
+ 785 786 788 792 794 795 796 799 803 804 805 807 817 818 828 830 833 838
+ 839 841 847 850 851 852 853 855 859 861 865 869 871 873 875 876 878 879
+ 880 883 885 893 894 897 898 901 902 903 904 905 908 915 916 919 924 926
+ 927 928 929 934 935 936 943 945 949 952 953 954 955 956 960 962 965 968
+ 969 971 973 978 980 982 985 988 989 990 996]
+Number of features selected: 407 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
+Run:  10
+Random seed: 51
+Generation 1: Best Fitness = 7148.1593, Mutation Rate = 0.240000, Features Selected: 484 out of 1000
+Generation 2: Best Fitness = 7223.7432, Mutation Rate = 0.232907, Features Selected: 453 out of 1000
+Generation 3: Best Fitness = 7235.7697, Mutation Rate = 0.226023, Features Selected: 476 out of 1000
+Generation 4: Best Fitness = 7260.6696, Mutation Rate = 0.219343, Features Selected: 455 out of 1000
+Generation 5: Best Fitness = 7267.1314, Mutation Rate = 0.212861, Features Selected: 449 out of 1000
+Generation 6: Best Fitness = 7289.3604, Mutation Rate = 0.206570, Features Selected: 454 out of 1000
+Generation 7: Best Fitness = 7298.2067, Mutation Rate = 0.200465, Features Selected: 457 out of 1000
+Generation 8: Best Fitness = 7298.2067, Mutation Rate = 0.194540, Features Selected: 457 out of 1000
+Generation 9: Best Fitness = 7298.2067, Mutation Rate = 0.188791, Features Selected: 457 out of 1000
+Generation 10: Best Fitness = 7316.3766, Mutation Rate = 0.183211, Features Selected: 463 out of 1000
+Generation 11: Best Fitness = 7337.0095, Mutation Rate = 0.177796, Features Selected: 443 out of 1000
+Generation 12: Best Fitness = 7357.1353, Mutation Rate = 0.172542, Features Selected: 463 out of 1000
+Generation 13: Best Fitness = 7357.1353, Mutation Rate = 0.167442, Features Selected: 463 out of 1000
+Generation 14: Best Fitness = 7357.1353, Mutation Rate = 0.162494, Features Selected: 463 out of 1000
+Generation 15: Best Fitness = 7358.2067, Mutation Rate = 0.157691, Features Selected: 445 out of 1000
+Generation 16: Best Fitness = 7358.2067, Mutation Rate = 0.153031, Features Selected: 445 out of 1000
+Generation 17: Best Fitness = 7358.2067, Mutation Rate = 0.148508, Features Selected: 445 out of 1000
+Generation 18: Best Fitness = 7358.2067, Mutation Rate = 0.144119, Features Selected: 445 out of 1000
+Generation 19: Best Fitness = 7358.2067, Mutation Rate = 0.139860, Features Selected: 445 out of 1000
+Generation 20: Best Fitness = 7398.4513, Mutation Rate = 0.135726, Features Selected: 426 out of 1000
+Generation 21: Best Fitness = 7398.4513, Mutation Rate = 0.131715, Features Selected: 426 out of 1000
+Generation 22: Best Fitness = 7398.4513, Mutation Rate = 0.127822, Features Selected: 426 out of 1000
+Generation 23: Best Fitness = 7398.4513, Mutation Rate = 0.124044, Features Selected: 426 out of 1000
+Generation 24: Best Fitness = 7398.4513, Mutation Rate = 0.120378, Features Selected: 426 out of 1000
+Generation 25: Best Fitness = 7398.4513, Mutation Rate = 0.116821, Features Selected: 426 out of 1000
+Generation 26: Best Fitness = 7420.7196, Mutation Rate = 0.113368, Features Selected: 431 out of 1000
+Generation 27: Best Fitness = 7456.6327, Mutation Rate = 0.110017, Features Selected: 422 out of 1000
+Generation 28: Best Fitness = 7456.6327, Mutation Rate = 0.106766, Features Selected: 422 out of 1000
+Generation 29: Best Fitness = 7465.7697, Mutation Rate = 0.103611, Features Selected: 430 out of 1000
+Generation 30: Best Fitness = 7465.7697, Mutation Rate = 0.100548, Features Selected: 430 out of 1000
+Generation 31: Best Fitness = 7465.7697, Mutation Rate = 0.097577, Features Selected: 430 out of 1000
+Generation 32: Best Fitness = 7470.6178, Mutation Rate = 0.094693, Features Selected: 424 out of 1000
+Generation 33: Best Fitness = 7487.2111, Mutation Rate = 0.091894, Features Selected: 424 out of 1000
+Generation 34: Best Fitness = 7487.2111, Mutation Rate = 0.089178, Features Selected: 424 out of 1000
+Generation 35: Best Fitness = 7539.0763, Mutation Rate = 0.086543, Features Selected: 420 out of 1000
+Generation 36: Best Fitness = 7539.0763, Mutation Rate = 0.083985, Features Selected: 420 out of 1000
+Generation 37: Best Fitness = 7539.0763, Mutation Rate = 0.081503, Features Selected: 420 out of 1000
+Generation 38: Best Fitness = 7539.0763, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 39: Best Fitness = 7542.7895, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 40: Best Fitness = 7542.7895, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 41: Best Fitness = 7542.7895, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 42: Best Fitness = 7542.7895, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 43: Best Fitness = 7542.7895, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 44: Best Fitness = 7542.7895, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Generation 45: Best Fitness = 7542.7895, Mutation Rate = 0.080000, Features Selected: 421 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 46: Best Fitness = 7547.1353, Mutation Rate = 0.240000, Features Selected: 425 out of 1000
+Generation 47: Best Fitness = 7547.1353, Mutation Rate = 0.240000, Features Selected: 425 out of 1000
+Generation 48: Best Fitness = 7547.1353, Mutation Rate = 0.220000, Features Selected: 425 out of 1000
+Generation 49: Best Fitness = 7547.1353, Mutation Rate = 0.200000, Features Selected: 425 out of 1000
+Generation 50: Best Fitness = 7547.1353, Mutation Rate = 0.180000, Features Selected: 425 out of 1000
+Generation 51: Best Fitness = 7547.1353, Mutation Rate = 0.160000, Features Selected: 425 out of 1000
+Generation 52: Best Fitness = 7572.1353, Mutation Rate = 0.140000, Features Selected: 420 out of 1000
+Generation 53: Best Fitness = 7572.1353, Mutation Rate = 0.140000, Features Selected: 420 out of 1000
+Generation 54: Best Fitness = 7572.1353, Mutation Rate = 0.120000, Features Selected: 420 out of 1000
+Generation 55: Best Fitness = 7572.1353, Mutation Rate = 0.100000, Features Selected: 420 out of 1000
+Generation 56: Best Fitness = 7572.1353, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 57: Best Fitness = 7572.1353, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 58: Best Fitness = 7572.1353, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 59: Best Fitness = 7572.1353, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 60: Best Fitness = 7572.1353, Mutation Rate = 0.080000, Features Selected: 420 out of 1000
+Generation 61: Best Fitness = 7577.1353, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 62: Best Fitness = 7577.1353, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 63: Best Fitness = 7577.1353, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 64: Best Fitness = 7577.1353, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 65: Best Fitness = 7577.1353, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 66: Best Fitness = 7577.1353, Mutation Rate = 0.080000, Features Selected: 419 out of 1000
+Generation 67: Best Fitness = 7580.7060, Mutation Rate = 0.080000, Features Selected: 415 out of 1000
+Generation 68: Best Fitness = 7580.7060, Mutation Rate = 0.080000, Features Selected: 415 out of 1000
+Generation 69: Best Fitness = 7587.1353, Mutation Rate = 0.080000, Features Selected: 417 out of 1000
+Generation 70: Best Fitness = 7587.1353, Mutation Rate = 0.080000, Features Selected: 417 out of 1000
+Generation 71: Best Fitness = 7587.1353, Mutation Rate = 0.080000, Features Selected: 417 out of 1000
+Generation 72: Best Fitness = 7587.1353, Mutation Rate = 0.080000, Features Selected: 417 out of 1000
+Generation 73: Best Fitness = 7611.3766, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 74: Best Fitness = 7611.3766, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 75: Best Fitness = 7611.3766, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 76: Best Fitness = 7611.3766, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 77: Best Fitness = 7611.3766, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 78: Best Fitness = 7611.3766, Mutation Rate = 0.080000, Features Selected: 404 out of 1000
+Generation 79: Best Fitness = 7631.6473, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 80: Best Fitness = 7631.6473, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 81: Best Fitness = 7631.6473, Mutation Rate = 0.080000, Features Selected: 413 out of 1000
+Generation 82: Best Fitness = 7645.7060, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 83: Best Fitness = 7645.7060, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 84: Best Fitness = 7645.7060, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 85: Best Fitness = 7645.7060, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 86: Best Fitness = 7658.5557, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 87: Best Fitness = 7658.5557, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 88: Best Fitness = 7658.5557, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 89: Best Fitness = 7658.5557, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 90: Best Fitness = 7658.5557, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 91: Best Fitness = 7658.5557, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Generation 92: Best Fitness = 7658.5557, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 93: Best Fitness = 7658.5557, Mutation Rate = 0.240000, Features Selected: 401 out of 1000
+Generation 94: Best Fitness = 7658.5557, Mutation Rate = 0.220000, Features Selected: 401 out of 1000
+Generation 95: Best Fitness = 7658.5557, Mutation Rate = 0.200000, Features Selected: 401 out of 1000
+Generation 96: Best Fitness = 7658.5557, Mutation Rate = 0.180000, Features Selected: 401 out of 1000
+Generation 97: Best Fitness = 7660.2024, Mutation Rate = 0.160000, Features Selected: 404 out of 1000
+Generation 98: Best Fitness = 7660.2024, Mutation Rate = 0.160000, Features Selected: 404 out of 1000
+Generation 99: Best Fitness = 7660.2024, Mutation Rate = 0.140000, Features Selected: 404 out of 1000
+Generation 100: Best Fitness = 7666.6473, Mutation Rate = 0.120000, Features Selected: 406 out of 1000
+Generation 101: Best Fitness = 7666.6473, Mutation Rate = 0.120000, Features Selected: 406 out of 1000
+Generation 102: Best Fitness = 7666.6473, Mutation Rate = 0.100000, Features Selected: 406 out of 1000
+Generation 103: Best Fitness = 7666.6473, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 104: Best Fitness = 7666.6473, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 105: Best Fitness = 7666.6473, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 106: Best Fitness = 7666.6473, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 107: Best Fitness = 7666.6473, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 108: Best Fitness = 7666.6473, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Generation 109: Best Fitness = 7666.6473, Mutation Rate = 0.080000, Features Selected: 406 out of 1000
+Stagnation detected. Temporarily boosting mutation rate.
+Generation 110: Best Fitness = 7666.6473, Mutation Rate = 0.240000, Features Selected: 406 out of 1000
+Generation 111: Best Fitness = 7666.6473, Mutation Rate = 0.220000, Features Selected: 406 out of 1000
+Generation 112: Best Fitness = 7666.6473, Mutation Rate = 0.200000, Features Selected: 406 out of 1000
+Generation 113: Best Fitness = 7681.6473, Mutation Rate = 0.180000, Features Selected: 403 out of 1000
+Generation 114: Best Fitness = 7681.6473, Mutation Rate = 0.180000, Features Selected: 403 out of 1000
+Generation 115: Best Fitness = 7681.6473, Mutation Rate = 0.160000, Features Selected: 403 out of 1000
+Generation 116: Best Fitness = 7681.6473, Mutation Rate = 0.140000, Features Selected: 403 out of 1000
+Generation 117: Best Fitness = 7686.6473, Mutation Rate = 0.120000, Features Selected: 402 out of 1000
+Generation 118: Best Fitness = 7686.6473, Mutation Rate = 0.120000, Features Selected: 402 out of 1000
+Generation 119: Best Fitness = 7686.6473, Mutation Rate = 0.100000, Features Selected: 402 out of 1000
+Generation 120: Best Fitness = 7686.6473, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 121: Best Fitness = 7686.6473, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 122: Best Fitness = 7686.6473, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 123: Best Fitness = 7686.6473, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 124: Best Fitness = 7686.6473, Mutation Rate = 0.080000, Features Selected: 402 out of 1000
+Generation 125: Best Fitness = 7691.6473, Mutation Rate = 0.080000, Features Selected: 401 out of 1000
+
+----- Final Report -----
+Best Fitness: 7691.6473
+Best individual (bit string): [1 1 1 1 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 1 1 1 0 1 0 0 0 1
+ 1 1 0 0 1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 1 1 0 1 0 0 0 1 0 1 1 0 0 0
+ 0 0 1 1 0 0 1 0 1 1 1 0 1 0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 0 1 1 0 1 0 1 0 0
+ 1 1 0 0 1 1 1 0 0 0 0 1 0 1 1 1 0 0 0 1 0 1 0 0 0 1 1 0 1 0 1 0 0 1 1 0 0
+ 1 0 0 0 0 1 0 1 0 0 1 1 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 0
+ 1 0 0 0 1 0 0 1 0 1 0 0 1 0 1 0 0 0 1 1 1 0 1 0 0 0 0 1 1 0 1 0 1 0 0 0 1
+ 0 1 0 1 0 0 1 0 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 1 1 0 1 1 1 1 0 0 0
+ 0 1 0 1 1 0 1 1 0 1 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 1 0 1 1 0 0 1 1 0 1
+ 0 0 0 0 0 0 0 1 1 0 1 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1
+ 0 0 1 0 0 1 1 1 0 1 1 1 0 0 1 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 1 0 1 0 0
+ 1 1 0 0 0 1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 1 0 1 1 0 0
+ 0 0 0 1 1 1 1 1 0 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 1 1 1 0 1 1 0 1 1 1 1 0 1
+ 1 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 1 1 1 0 0 1 0 1 0 1 0 1 0 1 0 1 0 0 1 0 1
+ 1 1 0 0 0 0 1 1 1 0 1 0 0 0 1 0 0 0 1 0 0 0 1 1 0 1 0 0 0 1 0 1 1 0 1 0 0
+ 0 1 1 0 0 0 0 1 1 0 0 1 1 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1
+ 1 0 1 0 1 0 0 0 0 0 1 1 1 0 1 0 0 1 0 1 1 1 0 0 1 1 0 1 0 0 0 0 1 0 0 1 0
+ 0 0 1 1 0 1 1 0 1 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 1 0 0 1 0
+ 0 0 1 0 0 0 0 1 0 1 1 0 1 1 0 1 0 1 0 0 1 1 0 0 0 0 1 1 1 1 0 0 1 0 0 0 0
+ 1 0 1 0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 1 0 0 0
+ 1 1 1 1 1 0 0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0 1
+ 1 1 0 1 0 1 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 1 0 0
+ 1 1 0 1 1 0 1 1 0 0 1 1 0 0 0 1 1 0 0 1 0 0 1 1 0 1 0 1 1 0 1 0 0 0 0 0 1
+ 0 0 0 1 0 1 1 0 0 1 1 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 0
+ 0 1 1 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 0 1 1 0 1 0 0 1 0 1 0 0 1 0 1 0 1 1
+ 1 1 1 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 0
+ 1 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 1 1 0 0
+ 1 1 1 0 0 0 0 0 0 0 1 0 1 1 0 0 1 0 0 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0 1 1 0
+ 0]
+Features selected (indices): [  0   1   2   3  11  14  16  17  18  21  25  28  29  30  32  36  37  38
+  41  42  44  45  46  47  48  49  57  60  61  63  67  69  70  76  77  80
+  82  83  84  86  90  95  96  98 103 104 106 108 111 112 115 116 117 122
+ 124 125 126 130 132 136 137 139 141 144 145 148 153 155 158 159 162 163
+ 164 166 167 178 180 182 183 185 189 192 194 197 199 203 204 205 207 212
+ 213 215 217 221 223 225 228 231 232 235 239 240 245 249 250 252 253 254
+ 255 260 262 263 265 266 268 269 273 277 283 286 288 289 292 293 295 303
+ 304 306 307 310 311 313 314 323 326 332 335 338 339 340 342 343 344 347
+ 349 353 357 363 365 367 370 371 375 381 382 384 385 394 395 396 399 401
+ 403 404 410 411 412 413 414 420 422 423 427 431 432 433 435 436 438 439
+ 440 441 443 444 446 451 454 458 460 461 462 465 467 469 471 473 475 478
+ 480 481 482 487 488 489 491 495 499 503 504 506 510 512 513 515 519 520
+ 525 526 529 530 532 536 537 538 546 552 554 555 557 559 565 566 567 569
+ 572 574 575 576 579 580 582 587 590 594 595 597 598 600 601 603 604 605
+ 606 607 608 610 617 622 624 627 631 636 638 639 641 642 644 646 649 650
+ 655 656 657 658 661 666 668 671 673 679 689 693 695 699 703 704 705 706
+ 707 713 715 716 719 725 726 728 733 734 735 739 740 741 743 745 746 748
+ 749 752 757 759 763 769 773 774 777 778 780 781 783 784 787 788 792 793
+ 796 799 800 802 804 805 807 813 817 819 820 823 824 827 829 831 832 839
+ 846 847 849 852 853 856 859 861 862 869 871 872 874 877 879 882 884 886
+ 887 888 889 890 893 896 900 901 906 912 914 915 916 917 922 925 927 929
+ 937 939 941 943 951 953 956 958 959 962 963 964 972 974 975 978 981 982
+ 983 984 985 987 989 991 992 993 996 997]
+Number of features selected: 406 out of 1000
+Model: <function knn at 0x7fa66434ee80>
+Mutation: bit_filp_mutation
+Selection: roulette_wheel_selection
+Crossover: single_point_crossover
+------------------------------
